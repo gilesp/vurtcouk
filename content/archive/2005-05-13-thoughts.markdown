@@ -1,0 +1,17 @@
+---
+author: giles
+comments: true
+date: 2005-05-13 15:42:00+00:00
+layout: post
+slug: thoughts
+title: Stuff And Nonsense
+wordpress_id: 6
+categories:
+- Thoughts
+---
+
+I originaly started my website (eons ago...) so that I would have somewhere to dump my random thoughts and what not.
+
+Strangely it never really quite worked out like that. Although I do have a (private) wiki that is more or less serving as a brain dump at the moment.
+
+Anyway, my plan (always planning, rarely implementing), is to write up any usufl things and thought I have here. Of course, I'll probably never get round to actually doing that, but you never know.

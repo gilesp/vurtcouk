@@ -1,0 +1,17 @@
+baseurl = "http://www.vurt.co.uk/"
+languageCode = "en-gb"
+title = "Ideas for things to do and how to (possibly) do them"
+
+[params]
+  AuthorName = "Giles Paterson"
+  GitHubUser = "gilesp"
+        
+[indexes]
+  category = "categories"
+  project = "projects"
+  idea = "ideas"
+
+[taxonomies]
+  tag = "tags"
+  topic = "topics"
+

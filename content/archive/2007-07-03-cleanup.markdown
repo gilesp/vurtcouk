@@ -1,0 +1,27 @@
+---
+author: giles
+comments: true
+date: 2007-07-03 15:58:00+00:00
+layout: post
+slug: cleanup
+title: Cleanup
+wordpress_id: 44
+---
+
+Well then, cleaning the bike was fairly straightforward, if a bit labour intensive. Like any bike cleanup, it consisted mainly of degreasing everything, giving the frame a wash and then re-lubing everything properly when reassmbling, only more so, since this bike had at least 20 years' worth of gungy oily crap to remove :-)
+
+Now, you can use expensive proprietary cleaners for this job, but to be honest, I find ordinary washing-up liquid to be as good as anything, although if you are particularly worried about the finish of your paint job, use an ordinary car wash liquid.
+
+For really stubborn grease, some white spirit and an old toothbrush does a great job, especially on fiddly bits like the cogs. The main chain ring came up particularly well - I hadn't even realised it was aluminium until I'd cleaned the old black grease off it... White spirit is also great for getting rid of decades' of old grease on bearings. I put the headset bearings in a jam jar with some white spirit and shook them until they were clean.
+
+The next job was getting rid of surface rust, this again is a simple job, just a bit time consuming. The best thing to do is to scrunch up some aluminium foil and get rubbing - the rust will come off in no time. This doesn't work so well on aluminium or alloy areas like the wheel rims, in those cases, a green nylon scrubbing pad and some brasso will do very nicely.
+
+Then your wheels will go from this:
+
+[![rusty wheel](http://farm2.static.flickr.com/1073/694160554_41cd206c03_m.jpg)](http://www.flickr.com/photos/gpaterson/694160554/)
+
+to this:
+
+[![shiny rim closeup](http://farm2.static.flickr.com/1103/694160626_fba3ad476b_m.jpg)](http://www.flickr.com/photos/gpaterson/694160626/)
+
+As you can see, my wheels turned out to be Rigida Super Chromix rims, which aren't anything special but look nice.

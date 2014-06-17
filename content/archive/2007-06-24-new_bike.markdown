@@ -1,0 +1,42 @@
+---
+author: giles
+comments: true
+date: 2007-06-24 18:27:00+00:00
+layout: post
+slug: new_bike
+title: New Bike
+wordpress_id: 41
+---
+
+I really like the idea behind [freecycle](http://www.freecycle.org/), as the old saying goes, one person's trash is another's gold or something like that.
+
+Anyway, in response to a wanted ad I posted last week, I was emailed with the offer of an old road bike that was cluttering up a woman's garage. She only lived round the corner from me at work, so I popped over in my lunch hour and soon became the proud owner of this rather nice bike:
+
+[![bike](http://farm2.static.flickr.com/1347/637975719_c0649d1f65_m.jpg)](http://www.flickr.com/photos/gpaterson/637975719/)
+
+As far as I can tell, it's an old Raliegh but I'm not sure exactly which model. The frame has no identifying stickers on it which lead me to believe it has been repainted at some point in its life. It has the following identifiable components:
+
+
+
+	
+  * Sachs Huret Eco deraillieurs
+
+	
+  * Raleigh cranks
+
+	
+  * Condor Saddle
+
+	
+  * Sturmey Archer seat post
+
+	
+  * Raleigh Weinmann 610 & 750 brakes
+
+	
+  * Sakae Custom SR Road Champion handlebars.
+
+
+It's also hard to judge the age of the bike since the components have a mix of dates stamped on them - the brakes are marked 1978 while the deraillieurs are 1984, possibly indicating a rebuild in it's life or that Raleigh had a stockpile of old brakes to use up...
+
+Anyway, while I could just cleanup this bike and ride as is, I've had a hankering for a singlespeed for a while now, so this bike becomes my project bike. I intend to strip everything off, clean everything, maybe repaint the frame and then reassemble into a singlespeed with the aid of some new parts from [wiggle](http://www.wiggle.co.uk/)

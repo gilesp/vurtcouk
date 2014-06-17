@@ -1,0 +1,17 @@
+---
+author: giles
+comments: true
+date: 2007-08-18 21:44:52+00:00
+layout: post
+slug: nokia-770
+title: Nokia 770
+wordpress_id: 46
+categories:
+- Thoughts
+---
+
+I'm typing this post on my new Nokia 770, using a foldup bluetooth keyboard and the python based Maemo Wordpress client.  I have to say, it's a very nice portable computing platform.
+
+Being linux based, it's more than just a PDA, it's more like having a proper computer to carry around with you all the time.  Without the keyboard, it's a little slow typing using the stylus and on screen keyboard, but it's acceptable. I've chatted with friends on Yahoo and MSN that way and didn't have any complaints :-) You wouldn't want to type for a long time that way though, which is where the bluetooth keyboard comes in. I'm using a Dell branded iGo Stowaway which is superb. It provides full size, laptop style keys in a package that folds up into something around the same size as the 770 itself.
+
+All in all, I'm very happy with the device so far. I'll write up my thoughts on the software and give a fuller review soon.
