@@ -1,0 +1,17 @@
+body {
+	margin-top: 100px;
+}
+
+footer {
+	margin: 50px 0;
+}
+
+.feature-img {
+  
+  height: 300px;
+  overflow: hidden;
+}
+
+.feature-img img {
+  width: 100%;
+}

@@ -4,6 +4,7 @@ tags = ["idea", "y"]
 topics = ["x", "y"]
 title = "Publishing Federation"
 date = 2014-06-17T09:52:12Z
+img = "http://placehold.it/900x300"
 +++
 # Tool to automate web publishing
 
