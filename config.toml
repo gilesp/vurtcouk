@@ -5,7 +5,7 @@ title = "vurt"
 [params]
   AuthorName = "Giles Paterson"
   GitHubUser = "gilesp"
-  SubTitle = "Ideas for things to do and how to (possibly) do them"      
+  SubTitle = "Ideas for things to do and how to (possibly) do them"    
 
 [indexes]
   category = "categories"
@@ -16,3 +16,7 @@ title = "vurt"
   tag = "tags"
   topic = "topics"
 
+[menus]
+  main = "main"
+
+    
