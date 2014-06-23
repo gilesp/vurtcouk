@@ -1,7 +1,10 @@
 {{ template "theme/partials/header.html" . }}
 
+<div class="blog-header">
+  <h1 class="blog-title">{{ .Title }}</h1>
+  <p class="lead blog-description">{{ .Site.Params.subtitle }}!</p>
+</div>
 <section id="main">
-  <div>
     <h1>{{ .Title }}</h1>
     <ul class="posts">
     {{ range first 5 .Data.Pages }}
@@ -22,7 +25,6 @@
 
     {{ end }}
     </ul>
-  </div>
 </section>
 
 {{ template "theme/partials/footer.html" . }}

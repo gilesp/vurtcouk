@@ -1,11 +1,12 @@
 baseurl = "http://www.vurt.co.uk/"
 languageCode = "en-gb"
-title = "Ideas for things to do and how to (possibly) do them"
+title = "vurt"
 
 [params]
   AuthorName = "Giles Paterson"
   GitHubUser = "gilesp"
-        
+  SubTitle = "Ideas for things to do and how to (possibly) do them"      
+
 [indexes]
   category = "categories"
   project = "projects"

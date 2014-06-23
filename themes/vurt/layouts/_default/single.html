@@ -1,5 +1,5 @@
-{{ template "theme/partials/header.html" . }}
 {{ $baseurl := .Site.BaseUrl }}
+{{ template "theme/partials/header.html" . }}
 
 <h1>{{.Title}}</h1>
 <p><span class="glyphicon glyphicon-time"></span> Posted on {{.Date.Format "Mon 2 Jan, 2006"}}</p>
@@ -16,4 +16,5 @@
   <div id="toc" class="well">
     {{.TableOfContents}}
   </div>
+
 {{ template "theme/partials/footer.html" . }}
