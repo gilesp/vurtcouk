@@ -1,12 +1,8 @@
 {{ template "theme/partials/header.html" . }}
 
-<div class="blog-header">
-  <h1 class="blog-title">{{ .Title }}</h1>
-  <p class="lead blog-description">{{ .Site.Params.subtitle }}!</p>
-</div>
-<section id="main">
+
     <h1>{{ .Title }}</h1>
-    <ul class="posts">
+    <h3>{{ index .Site.Params "SubTitle" }}</h3>
     {{ range first 5 .Data.Pages }}
       <h1><a href="{{.Permalink}}">{{.Title}}</a></h1>
       <hr>
@@ -18,13 +14,11 @@
         <hr>
       </div>
       {{end}}
-      <p>{{.Summary}}</p>
+      <p class="lead">{{.Summary}}</p>
       <a class="btn btn-primary" href="{{.Permalink}}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
       <hr>
 
 
     {{ end }}
-    </ul>
-</section>
 
 {{ template "theme/partials/footer.html" . }}
