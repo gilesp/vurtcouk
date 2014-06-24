@@ -8,15 +8,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">vurt.co.uk</a>
+      <a class="navbar-brand" href="index.html">Vurt.co.uk</a>
     </div>
-    
+
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav">
-	{{ range .Site.Menus.main }}
-	  <li{{if $currentnode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.Url}}"> {{ .Name }} </a></li>
-	{{ end }}
+        {{ range .Site.Menus.main }}
+          <li{{if $currentnode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.Url}}"> {{ .Name }} </a></li>
+        {{ end }}
 <!--
         <li><a href="#about">About</a>
         </li>

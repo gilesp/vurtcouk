@@ -1,10 +1,11 @@
 +++
 project = ""
-tags = ["idea", "y"]
-topics = ["x", "y"]
+tags = ["webdev"]
+categories = ["idea"]
 title = "Publishing Federation"
 date = 2014-06-17T09:52:12Z
 img = "http://placehold.it/900x300"
+ideas = ["website"]
 +++
 # Tool to automate web publishing
 

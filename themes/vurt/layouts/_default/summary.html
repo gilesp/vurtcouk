@@ -1,11 +1,5 @@
-{{ template "theme/partials/header.html" . }}
-
-
-    <h1>{{ .Title }}</h1>
-    <h3>{{ index .Site.Params "SubTitle" }}</h3>
-    {{ range first 5 .Data.Pages }}
-      <h1><a href="{{.Permalink}}">{{.Title}}</a></h1>
-      <hr>
+<h1><a href="{{.Permalink}}">{{.Title}}</a></h1>
+<hr>
 <p><span class="glyphicon glyphicon-time"></span> {{.Date.Format "Mon 2 Jan, 2006"}}</p>
 <hr>
 {{if isset .Params "img"}}
@@ -17,6 +11,3 @@
 <p class="lead">{{.Summary}}</p>
 <a class="btn btn-primary" href="{{.Permalink}}">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
 <hr>
-    {{ end }}
-
-{{ template "theme/partials/footer.html" . }}

@@ -7,16 +7,21 @@ title = "vurt"
   GitHubUser = "gilesp"
   SubTitle = "Ideas for things to do and how to (possibly) do them"    
 
-[indexes]
+[taxonomies]
+  tag = "tags"
   category = "categories"
+  project = "projects"
+
+[indexes]
   project = "projects"
   idea = "ideas"
 
-[taxonomies]
-  tag = "tags"
-  topic = "topics"
+[[menu.main]]
+  name = "Projects"
+  identifier = "projects"
+  url = "/projects"
 
-[menus]
-  main = "main"
-
-    
+[[menu.main]]
+  name = "Ideas"
+  identifier = "ideas"
+  url = "/ideas"
