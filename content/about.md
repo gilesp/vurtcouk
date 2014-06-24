@@ -3,6 +3,7 @@ draft: true
 title: "About"
 date: 2014-06-16T11:28:25Z
 menu: "main"
+weight: 1000
 ---
 
 This is my blog. Do people still have those?
