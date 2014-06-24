@@ -1,5 +1,5 @@
----
-tags: ["idea", "y"]
-topics: ["x", "y"]
-project: ""
----
++++
+tags = ["idea"]
+ideas = []
+icon = "glyphicon-flash"
++++
