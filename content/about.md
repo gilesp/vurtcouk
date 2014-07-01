@@ -2,7 +2,9 @@
 draft: true
 title: "About"
 date: 2014-06-16T11:28:25Z
-menu: "main"
+menu:
+  main:
+    pre: "fa-question"
 weight: 1000
 ---
 

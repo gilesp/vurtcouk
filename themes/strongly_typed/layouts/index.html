@@ -1,0 +1,209 @@
+{{ template "theme/partials/header.html" . }}
+<body class="homepage">
+
+  <!-- Header Wrapper -->
+  <div id="header-wrapper">
+
+    <!-- Header -->
+    <div id="header" class="container">
+
+      <!-- Logo -->
+      <h1 id="logo"><a href="#">{{ .Title }}</a></h1>
+      <p>{{ index .Site.Params "SubTitle" }}</p>
+
+      {{ template "theme/partials/nav.html" . }}
+
+    </div>
+
+  </div>
+
+  <!-- Features Wrapper -->
+  <div id="features-wrapper">
+
+    <!-- Features -->
+    <section id="features" class="container">
+      <header>
+        <h2>Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
+      </header>
+      <div class="row">
+        {{ range $indexname, $index := .Site.Indexes }}
+        <!-- Feature -->
+        <div class="4u">
+          <section>
+            <a href="{{ $indexname | urlize }}" class="image image-full"><img src="images/pic01.jpg" alt="{{ $indexname }}" /></a>
+            <header>
+              <h3>{{ $indexname }}</h3>
+            </header>
+          </section>
+        </div>
+        {{ end }}
+
+      </div>
+<!--
+      <ul class="actions">
+        <li><a href="#" class="button button-icon fa fa-file">Tell Me More</a></li>
+      </ul>
+-->
+    </section>
+
+  </div>
+
+  <!-- Banner Wrapper -->
+  <div id="banner-wrapper">
+    <div class="inner">
+
+      <!-- Banner -->
+      <section id="banner" class="container">
+        <p>Use this space for <strong>profound thoughts</strong>.<br />
+          Or an enormous ad. Whatever.</p>
+      </section>
+
+    </div>
+  </div>
+
+  <!-- Main Wrapper -->
+  <div id="main-wrapper">
+
+    <!-- Main -->
+    <div id="main" class="container">
+      <div class="row">
+
+        <!-- Content -->
+        <div id="content" class="8u">
+          {{ range first 4 .Site.Recent}}
+          <article class="is-post">
+            <header>
+              <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            </header>
+            {{ if isset .Params "img" }}
+            <a href="{{ .Permalink }}" class="image image-full">
+              <img src="{{ .Params.img }}">
+            </a>
+            {{ end }}
+            <p>{{ .Summary }}</p>
+            <ul class="actions">
+              <li><a href="{{ .Permalink }}" class="button button-icon fa fa-file">Continue Reading</a></li>
+            </ul>
+          </article>
+          {{ end }}
+
+        </div>
+
+        <!-- Sidebar -->
+        <div id="sidebar" class="4u">
+
+          <!-- Excerpts -->
+          <section>
+            <ul class="divided">
+              <li>
+Ideas: {{ .Site.Indexes.ideas }}
+                {{ range $k, $v := .Site.Indexes.ideas }}
+<p>Key: {{$k}}</p>
+<p>Value: {{$v}}</p>
+{{ range $v }}
+<p>{{ .Page.Title }}</p>
+{{ end }}
+                  <article class="is-excerpt">
+                    <header>
+                      <span class="date">{{ $v.Date.Format "2 Jun, 2014"}}</span>
+                      <h3><a href="{{ $v.Permalink }}">{{ $v.Title }}</a></h3>
+                    </header>
+                    <p>{{ $v.Summary }}</p>
+                  </article>
+                {{ end }}
+                <!-- Excerpt -->
+                <article class="is-excerpt">
+                  <header>
+                    <span class="date">May 18, 2013</span>
+                    <h3><a href="#">Ermergerd sterf herpernd</a></h3>
+                  </header>
+                  <p>Lorem ipsum dolor odio facilisis convallis. Etiam non nunc vel est
+                    suscipit convallis non id orci lorem ipsum sed magna consequat feugiat lorem dolore.</p>
+                </article>
+
+              </li>
+              <li>
+
+                <!-- Excerpt -->
+                <article class="is-excerpt">
+                  <header>
+                    <span class="date">May 15, 2013</span>
+                    <h3><a href="#">Kerfer merks mer herper</a></h3>
+                  </header>
+                  <p>Lorem ipsum dolor odio facilisis convallis. Etiam non nunc vel est
+                    suscipit convallis non id orci lorem ipsum sed magna consequat feugiat lorem dolore.</p>
+                </article>
+
+              </li>
+              <li>
+
+                <!-- Excerpt -->
+                <article class="is-excerpt">
+                  <header>
+                    <span class="date">May 12, 2013</span>
+                    <h3><a href="#">Blerg persts er fern</a></h3>
+                  </header>
+                  <p>Lorem ipsum dolor odio facilisis convallis. Etiam non nunc vel est
+                    suscipit convallis non id orci lorem ipsum sed magna consequat feugiat lorem dolore.</p>
+                </article>
+
+              </li>
+            </ul>
+          </section>
+
+          <!-- Highlights -->
+          <section>
+            <ul class="divided">
+              <li>
+
+                <!-- Highlight -->
+                <article class="is-highlight">
+                  <header>
+                    <h3><a href="#">Something of note</a></h3>
+                  </header>
+                  <a href="http://regularjane.deviantart.com/art/In-Your-Hands-356733525" class="image image-left"><img src="images/pic06.jpg" alt="" /></a>
+                  <p>Phasellus  sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
+                    viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
+                    convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
+                    facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
+                  <ul class="actions">
+                    <li><a href="#" class="button button-icon fa fa-file">Learn More</a></li>
+                  </ul>
+                </article>
+
+              </li>
+              <li>
+
+                <!-- Highlight -->
+                <article class="is-highlight">
+                  <header>
+                    <h3><a href="#">Something of less note</a></h3>
+                  </header>
+                  <a href="http://regularjane.deviantart.com/art/Pink-Rain-2009-134901803" class="image image-left"><img src="images/pic07.jpg" alt="" /></a>
+                  <p>Phasellus  sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
+                    viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
+                    convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
+                    facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
+                  <ul class="actions">
+                    <li><a href="#" class="button button-icon fa fa-file">Learn More</a></li>
+                  </ul>
+                </article>
+
+              </li>
+            </ul>
+          </section>
+
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Footer Wrapper -->
+  <div id="footer-wrapper">
+    {{ template "theme/partials/copyright.html" . }}
+  </div>
+
+</body>
+</html>

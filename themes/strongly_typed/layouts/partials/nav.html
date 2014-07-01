@@ -1,0 +1,9 @@
+{{ $currentnode := . }}
+<nav id="nav">
+  <ul>
+    <li><a class="fa fa-home" href="index.html"><span>Home</span></a></li>
+    {{ range .Site.Menus.main }}
+    <li><a class="fa {{ .Pre }}" href="{{ .Url }}">{{ .Name }}</a>
+    {{ end }}
+  </ul>
+</nav>
