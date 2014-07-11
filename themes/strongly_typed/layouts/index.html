@@ -17,49 +17,6 @@
 
   </div>
 
-  <!-- Features Wrapper -->
-  <div id="features-wrapper">
-
-    <!-- Features -->
-    <section id="features" class="container">
-      <header>
-        <h2>Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
-      </header>
-      <div class="row">
-        {{ range $indexname, $index := .Site.Indexes }}
-        <!-- Feature -->
-        <div class="4u">
-          <section>
-            <a href="{{ $indexname | urlize }}" class="image image-full"><img src="images/pic01.jpg" alt="{{ $indexname }}" /></a>
-            <header>
-              <h3>{{ $indexname }}</h3>
-            </header>
-          </section>
-        </div>
-        {{ end }}
-
-      </div>
-<!--
-      <ul class="actions">
-        <li><a href="#" class="button button-icon fa fa-file">Tell Me More</a></li>
-      </ul>
--->
-    </section>
-
-  </div>
-
-  <!-- Banner Wrapper -->
-  <div id="banner-wrapper">
-    <div class="inner">
-
-      <!-- Banner -->
-      <section id="banner" class="container">
-        <p>Use this space for <strong>profound thoughts</strong>.<br />
-          Or an enormous ad. Whatever.</p>
-      </section>
-
-    </div>
-  </div>
 
   <!-- Main Wrapper -->
   <div id="main-wrapper">
