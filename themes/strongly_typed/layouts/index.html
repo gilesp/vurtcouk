@@ -53,20 +53,13 @@
           <section>
             <ul class="divided">
               <li>
-Ideas: {{ .Site.Indexes.ideas }}
+		Ideas: {{ .Site.Indexes.ideas }}
                 {{ range $k, $v := .Site.Indexes.ideas }}
-<p>Key: {{$k}}</p>
-<p>Value: {{$v}}</p>
-{{ range $v }}
-<p>{{ .Page.Title }}</p>
-{{ end }}
-                  <article class="is-excerpt">
-                    <header>
-                      <span class="date">{{ $v.Date.Format "2 Jun, 2014"}}</span>
-                      <h3><a href="{{ $v.Permalink }}">{{ $v.Title }}</a></h3>
-                    </header>
-                    <p>{{ $v.Summary }}</p>
-                  </article>
+		<p>Key: {{$k}}</p>
+		<p>Value: {{$v}}</p>
+		{{ range $v }}
+		<p>{{ .Page.Title }}</p>
+		{{ end }}
                 {{ end }}
                 <!-- Excerpt -->
                 <article class="is-excerpt">

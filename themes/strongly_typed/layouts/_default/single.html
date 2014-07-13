@@ -1,0 +1,68 @@
+{{ template "theme/partials/header.html" . }}
+<body class="right-sidebar">
+
+  <!-- Header Wrapper -->
+  <div id="header-wrapper">
+
+    <!-- Header -->
+    <div id="header" class="container">
+
+      <!-- Logo -->
+      <h1 id="logo"><a href="#">{{ .Title }}</a></h1>
+      <p>{{ index .Site.Params "SubTitle" }}</p>
+
+      {{ template "theme/partials/nav.html" . }}
+
+    </div>
+
+  </div>
+
+  <!-- Main Wrapper -->
+  <div id="main-wrapper">
+    <!-- Main -->
+    <div id="main" class="container">
+      <div class="row">
+	
+	<!-- Content -->
+	<div id="content" class="8u skel-cell-important">
+	  
+	  <!-- Post -->
+	  <article class="is-post">
+	    <header>
+	      <h2>{{.Title}}</h2>
+	    </header>
+	    {{if isset .Params "img"}}
+	    <span class="image image-full"><img src="{{.Params.img}}" /></span>
+	    {{end}}
+	    {{.Content}}
+	  </article>
+	</div>
+	<!-- Sidebar -->
+	<div id="sidebar" class="4u">
+	  
+	  <!-- Excerpts -->
+	  <section>
+	    <ul class="divided">
+	      <li>
+		
+		<!-- Excerpt -->
+		<article class="is-excerpt">
+		  <header>
+		    <span class="date">{{.Date.Format "Mon 2 Jan, 2006"}}</span>
+		    <h3>Author?</h3>
+		  </header>
+		  <p>Tags/categories go here?</p>
+		</article>
+		
+	      </li>
+	    </ul>
+	  </section>
+      </div>
+    </div>
+  <!-- Footer Wrapper -->
+  <div id="footer-wrapper">
+    {{ template "theme/partials/copyright.html" . }}
+  </div>
+
+</body>
+</html>
