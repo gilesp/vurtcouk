@@ -1,17 +1,13 @@
----
-author: giles
-comments: true
-date: 2013-02-17 22:02:55+00:00
-layout: post
-slug: building-a-log-store
-title: Building a log store
-wordpress_id: 1017
-categories:
-- Hacks
-- Make
-- Thoughts
-img: http://www.vurt.co.uk/wp-content/uploads/2013/02/IMG_20130217_143339-1024x768.jpg
----
++++
+author = "Giles"
+date = 2013-02-17T22:02:55Z
+slug =  "building-a-log-store"
+title = "Building a log store"
+projects = ["Logstore"]
+tags = ["Hacks", "Make"]
+img = "http://www.vurt.co.uk/wp-content/uploads/2013/02/IMG_20130217_143339-1024x768.jpg"
+icon = "glyphicon-wrench"
++++
 
 I recently had a wood burning stove installed which meant that I needed somewhere to store all the logs I'll be burning. Rather than spend a lot of money on a professionally made log store, I decided to make my own, because hey, I own a hammer and a saw, how hard can it be?
 

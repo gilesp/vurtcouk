@@ -2,7 +2,6 @@
 {{ template "theme/partials/header.html" . }}
 
 <h1>{{.Title}}</h1>
-<p><span class="glyphicon glyphicon-time"></span> Posted on {{.Date.Format "Mon 2 Jan, 2006"}}</p>
 <hr>
 {{if isset .Params "img"}}
 <img src="{{.Params.img}}" class="img-responsive">
@@ -14,7 +13,17 @@
 </div>
 <div class="col-lg-4">
   <div id="toc" class="well">
-    {{.TableOfContents}}
+    <section id="info">
+      <p><span class="glyphicon glyphicon-time"></span> Posted on {{.Date.Format "Mon 2 Jan, 2006"}}</p>
+      <p>Around {{ .FuzzyWordCount }} words, should take {{ .ReadingTime }} minutes to get through.</p>
+    </section>
+    <section id="next">
+      {{if .Next}}<a class="next" href="{{.Next.Permalink}}"><i class="glyphicon glyphicon-chevron-left"></i> {{.Next.Title}}</a>{{end}}
+    </section>
+    <section id="prev">
+      {{if .Prev}}<a class="previous" href="{{.Prev.Permalink}}"><i class="glyphicon glyphicon-chevron-right"></i> {{.Prev.Title}}</a><br>{{end}}
+    </section>
+
   </div>
 
 {{ template "theme/partials/footer.html" . }}
