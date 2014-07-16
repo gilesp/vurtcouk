@@ -20,10 +20,10 @@ title = "vurt"
   name = "Projects"
   identifier = "projects"
   url = "/projects"
-  pre = "fa-wrench"
+  pre = "glyphicon-wrench"
 
 [[menu.main]]
   name = "Ideas"
   identifier = "ideas"
   url = "/ideas"
-  pre = "fa-bolt"
+  pre = "glyphicon-flash"

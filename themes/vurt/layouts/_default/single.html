@@ -15,15 +15,10 @@
   <div id="toc" class="well">
     <section id="info">
       <p><span class="glyphicon glyphicon-time"></span> Posted on {{.Date.Format "Mon 2 Jan, 2006"}}</p>
-      <p>Around {{ .FuzzyWordCount }} words, should take {{ .ReadingTime }} minutes to get through.</p>
     </section>
-    <section id="next">
-      {{if .Next}}<a class="next" href="{{.Next.Permalink}}"><i class="glyphicon glyphicon-chevron-left"></i> {{.Next.Title}}</a>{{end}}
-    </section>
-    <section id="prev">
-      {{if .Prev}}<a class="previous" href="{{.Prev.Permalink}}"><i class="glyphicon glyphicon-chevron-right"></i> {{.Prev.Title}}</a><br>{{end}}
-    </section>
-
+    {{ template "theme/partials/social.html" . }}
+    {{ template "theme/partials/next_prev.html" . }}
+    
   </div>
 
 {{ template "theme/partials/footer.html" . }}
