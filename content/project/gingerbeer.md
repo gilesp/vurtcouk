@@ -1,14 +1,12 @@
----
-author: giles
-comments: true
-date: 2005-06-15 16:46:00+00:00
-layout: post
-slug: gingerbeer
-title: How To Make Ginger Beer
-wordpress_id: 11
-categories:
-- Articles
----
++++
+author = "Giles"
+date = 2005-06-15T16:46:00Z
+slug =  "gingerbeer"
+title = "How To Make Ginger Beer"
+projects = ["Ginger Beer"]
+tags = ["Make"]
+icon = "glyphicon-wrench"
++++
 
 I fancied a nice cool drink the other night, but I'm fed up with cola, lemonade and juices.
 I prefer a "drier" soft drink, and one that doesn't make you want to scrub your teeth
@@ -22,19 +20,19 @@ So, here's what I used to make a delicious ginger beverage:
 
 
 
-	
+
   * 2 litre bottle of still mineral water
 
-	
+
   * large chunk of root ginger (you need 1½ to 2 tablespoons of grated ginger)
 
-	
+
   * 1 lemon
 
-	
+
   * 1 cup of sugar
 
-	
+
   * ¼ teaspoon of dried yeast
 
 
