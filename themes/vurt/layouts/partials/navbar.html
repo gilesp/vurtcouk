@@ -15,7 +15,7 @@
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav">
         {{ range .Site.Menus.main }}
-          <li{{if $currentnode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.Url}}"><span class="glyphicon {{ .Pre }}"></span> {{ .Name }} </a></li>
+          <li{{if $currentnode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{.Url}}"><span class="fa {{ .Pre }}"></span> {{ .Name }} </a></li>
         {{ end }}
       </ul>
     </div>

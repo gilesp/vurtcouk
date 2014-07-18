@@ -1,5 +1,5 @@
 +++
-icon = "glyphicon-flash"
+icon = "fa-bolt"
 ideas = ["twitter"]
 tags = ["idea"]
 title = "Twitter Bot"

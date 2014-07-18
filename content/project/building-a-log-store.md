@@ -6,7 +6,7 @@ title = "Building a log store"
 projects = ["Logstore"]
 tags = ["Hacks", "Make"]
 img = "http://www.vurt.co.uk/wp-content/uploads/2013/02/IMG_20130217_143339-1024x768.jpg"
-icon = "glyphicon-wrench"
+icon = "fa-cogs"
 +++
 
 I recently had a wood burning stove installed which meant that I needed somewhere to store all the logs I'll be burning. Rather than spend a lot of money on a professionally made log store, I decided to make my own, because hey, I own a hammer and a saw, how hard can it be?
