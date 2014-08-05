@@ -1,5 +1,5 @@
 +++
 tags = []
-img =
+img = ""
 icon = "fa-comment"
 +++
