@@ -6,6 +6,7 @@ title = "How To Make Ginger Beer"
 projects = ["Ginger Beer"]
 tags = ["Make"]
 icon = "fa-cogs"
+aliases = ["/2005/06/15/gingerbeer"]
 +++
 
 I fancied a nice cool drink the other night, but I'm fed up with cola, lemonade and juices.
