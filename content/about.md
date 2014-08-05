@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "About"
 date: 2014-06-16T11:28:25Z
 menu:
