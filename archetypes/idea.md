@@ -1,5 +1,5 @@
 +++
 tags = ["idea"]
 ideas = []
-icon = "glyphicon-flash"
+icon = "fa-bolt"
 +++

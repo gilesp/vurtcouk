@@ -6,7 +6,7 @@ title = "Publishing Federation"
 date = 2014-06-17T09:52:12Z
 img = "http://placehold.it/900x300"
 ideas = ["website"]
-icon = "glyphicon-flash"
+icon = "fa-bolt"
 +++
 # Tool to automate web publishing
 

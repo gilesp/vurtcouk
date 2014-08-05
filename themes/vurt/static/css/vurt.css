@@ -35,6 +35,10 @@ h2 span.glyphicon {
     margin-right: 5px;
 }
 
+h2 span.fa {
+  margin-right: 5px;
+}
+
 .date {
     text-align: right;
 }

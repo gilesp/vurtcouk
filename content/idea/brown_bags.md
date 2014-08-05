@@ -1,5 +1,5 @@
 +++
-icon = "glyphicon-flash"
+icon = "fa-bolt"
 ideas = ["blogging", "personal development"]
 tags = ["idea"]
 title = "Brown Bags"
