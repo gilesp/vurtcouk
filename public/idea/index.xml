@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Ideas on vurt </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://vurt.co.uk/idea/index.xml</link>
+    <language>en-gb</language>
+    
+    
+    <updated>Wed, 06 Aug 2014 09:41:07 UTC</updated>
+    
+    <item>
+      <title>Restore Cylinder Mower</title>
+      <link>http://vurt.co.uk/idea/restore_cylinder_mower</link>
+      <pubDate>Wed, 06 Aug 2014 09:41:07 UTC</pubDate>
+      
+      <guid>http://vurt.co.uk/idea/restore_cylinder_mower</guid>
+      <description>&lt;p&gt;Get an old cylinder mower (old battered one, but running seen on ebay for #60) and do it up but painted in hot-rod style?&lt;/p&gt;
+
+&lt;p&gt;Re-sharpen cutting blade and get working smoothly but make it look awesome with gloss black colour-scheme (red detailing - maybe flame motif on grass bin?)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Solar Power Shed</title>
+      <link>http://vurt.co.uk/idea/solar_power_shed</link>
+      <pubDate>Wed, 06 Aug 2014 09:40:50 UTC</pubDate>
+      
+      <guid>http://vurt.co.uk/idea/solar_power_shed</guid>
+      <description>&lt;p&gt;Add solar panel system to shed to provide power down at the patio.&lt;/p&gt;
+
+&lt;p&gt;Would need a solar panel (50W?), charge controller, battery (deep cycle lead acid) and an 240V inverter to run mains powered devices.&lt;/p&gt;
+
+&lt;p&gt;Could get a submersible pump (are 12V ones available?) to put in the water barrels to use to water the veg patches better. Could this be automated with Raspi/arduino, solenoids and soil moisture sensors to provide automatic watering? Could tie it in to weather forecasts?&lt;/p&gt;
+
+&lt;p&gt;Get EL-wire and fix to outline of shed and power from the battery to provide funky lighting at the patio during the evening.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brown Bags</title>
+      <link>http://vurt.co.uk/idea/brown_bags</link>
+      <pubDate>Fri, 11 Jul 2014 08:00:28 UTC</pubDate>
+      
+      <guid>http://vurt.co.uk/idea/brown_bags</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Ideas for filling in empty Brown Bag slots&lt;/h1&gt;
+
+&lt;p&gt;A couple of thoughts on how to fill empty brown bag slots at work&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Show Dev videos&lt;/h2&gt;
+
+&lt;p&gt;Trialled this at short notice yesterday by showing a Google I/O video &lt;a href=&#34;http://youtu.be/yC7Pf3Ad9t8?list=PL_aeGNMU1zXNVihdLzClBhTOtFxzj5eWi&#34;&gt;Casting to the future&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s an easy way to fill a slot and there&amp;rsquo;s plenty of choice, even just from the Google I/O videos.&lt;/p&gt;
+
+&lt;p&gt;Could extend this by having a &amp;ldquo;Vote for the next video&amp;rdquo; option?&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;Give Talks Myself&lt;/h2&gt;
+
+&lt;p&gt;Use it as an opportunity to get loads of presenting practice myself. Give a talk on any current subject of interest. Wouldn&amp;rsquo;t have to be long, even just 20 - 30 minutes would suffice. Would be good way to develop the habit of creating content and for formalising thoughts I have on various topics.&lt;/p&gt;
+
+&lt;p&gt;People may get sick of me presenting all the time but that would hopefully just spur them on to do a talk themselves.&lt;/p&gt;
+
+&lt;p&gt;I could tie my presentations in with blog posts (cut down version on blackpepper.co.uk linking to full version/authoritative version on my site). Again, good practice at content generation and getting in to the habit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Twitter Bot</title>
+      <link>http://vurt.co.uk/idea/tweitter_bot</link>
+      <pubDate>Wed, 25 Jun 2014 01:27:54 UTC</pubDate>
+      
+      <guid>http://vurt.co.uk/idea/tweitter_bot</guid>
+      <description>&lt;p&gt;n-gram/markov chain driven bot that combines tweets by others on given tags into random posts of its own.&lt;/p&gt;
+
+&lt;p&gt;Alternatively could start with known dictionary and add all responses to its dictionary, gradually evolving its output.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publishing Federation</title>
+      <link>http://vurt.co.uk/idea/publishing_tool</link>
+      <pubDate>Tue, 17 Jun 2014 09:52:12 UTC</pubDate>
+      
+      <guid>http://vurt.co.uk/idea/publishing_tool</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Tool to automate web publishing&lt;/h1&gt;
+
+&lt;p&gt;Using a static site generation tool, how can I easily publish to other channels such as Facebook or twitter?&lt;/p&gt;
+
+&lt;p&gt;The tool should have a configurable list of publishers, along with their characteristics (e.g. API key, min/max length, etc.)&lt;/p&gt;
+
+&lt;p&gt;When run, new posts would be automatically published to the configured channels along with a link back to the master web page produced by the static site generation tool.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;Options&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://indiewebcamp.com/POSSE&#34;&gt;http://indiewebcamp.com/POSSE&lt;/a&gt; POSSE indieweb federation strategy. Could I develop a hugo extension to do this?&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
