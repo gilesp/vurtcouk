@@ -2,6 +2,9 @@
 
 echo -e "\033[0;32mDeploying updates to prod_live...\033[0m"
 
+#Delete old public folder content
+rm -rf public/*
+
 #Build the project
 hugo -t vurt
 
