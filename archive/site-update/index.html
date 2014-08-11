@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<meta name="keywords" content="">
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@gilesp">
+<meta name="twitter:title" content="Site Update : vurt.co.uk">
+<meta name="twitter:creator" content="@gilesp">
+<meta name="twitter:description" content="">
+<meta name="twitter:image:src" content="">
+<meta name="twitter:domain" content="vurt.co.uk">
+
+
+    <base href="http://vurt.co.uk">
+
+    
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="/css/font-awesome.min.css" rel="stylesheet">
+
+    
+    
+    
+
+    
+    <link href="http://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet" type="text/css">
+
+    
+    <link href="css/vurt.css" rel="stylesheet">
+
+    <title>Site Update : vurt.co.uk</title>
+    <link rel="canonical" href="http://vurt.co.uk/archive/site-update">
+    
+
+  </head>
+  <body>
+    
+<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Vurt.co.uk</a>
+    </div>
+
+    
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav">
+        
+          <li><a href="/ideas"><span class="fa fa-bolt"></span> Ideas </a></li>
+        
+          <li><a href="/projects"><span class="fa fa-cogs"></span> Projects </a></li>
+        
+          <li><a href="http://vurt.co.uk/about"><span class="fa fa-question"></span> About </a></li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+
+
+<h1>Site Update</h1>
+<hr>
+
+<p>Well as you have probably guessed, I&rsquo;ve made some changes to the site as a prelude to hopefully becoming a more regular blogger.</p>
+
+<p>The changes aren&rsquo;t simple cosmetic either, I&rsquo;ve moved totally from  a <a href="http://www.blosxom.com/">blosxom</a> based set up to a <a href="http://wordpress.org/">word press</a> one, with a new customised theme. My last experience with wordpress was when it was known as <a href="http://cafelog.com/">b2</a>, so things have changes a fair bit since then ;-)</p>
+
+<p>Now, as with any change of platform, there have been many issues for me to contend with, most of which were fairly straightforward to deal with thanks to the wordpress documentation and the <a href="http://www.google.co.uk/search?q=blosxom+to+wordpress&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;rls=org.mozilla:en-GB:official&amp;client=firefox-a">experiences of others</a>. Installing wordpress was a breeze thanks to the automatic installer scripts provided by my hosting provider, <a href="http://www.dreamhost.com/">dreamhost</a>. The first problem I had was to get my old posts into wordpress. Wordpress has a number of import options but not one for blosxom. Instead I had to go down the <a href="http://blog.unto.net/meta/migrating-from-blosxom-to-wordpress/">rss feed import route</a>.</p>
+
+<p>Once that was done, I was stuck with the classic issue of changed URLs. Under blosxom, I had nested categories forming part of the URL, along with the article title. One of my reasons for moving to wordpress was to get away from categories and move to tagged posts, so that approach wouldn&rsquo;t work. Instead I opted to use the data based URL approach of wordpress combined with some mod-rewrite shenanigans to redirect the old URLs to their new homes. Because I didn&rsquo;t have too many URLs, I opted to just manually create the redirects but it would certainly be possible to do this in a smarter, more dynamic way if you needed to. My redirects looked like this:</p>
+
+<p><code>Redirect 301 /Articles/GingerBeer.html http://www.vurt.co.uk/2005/06/15/GingerBeer</code></p>
+
+<p>And that was pretty much it as far as installation and setup went. I&rsquo;ve installed the <a href="http://trac.herewithme.fr/project/simpletagging/">SimpleTagging</a> plugin to provide tagging to my entries and have started tagging new items but haven&rsquo;t yet been back to update the old ones.</p>
+
+<p>The look and feel was achieved by creating a custom  theme and it&rsquo;s around 85% complete I reckon, just some minor bits to tweak now. No prizes for guessing that it&rsquo;s based on the following <a href="http://www.glish.com/css/9.asp">2 column layout</a> at <a href="http://www.glish.com/">glish.com</a>. The thing I&rsquo;m least happy with is the searching so I&rsquo;ll need to investigate that more, but I decided to release early and often rather than wait until I was entirely happy as otherwise I&rsquo;d never have updated this place :-)</p>
+
+<p>Commenting is now enabled so feel free to create an account and let me know what you think.</p>
+
+<hr>
+
+</div>
+<div class="col-lg-4">
+  <div id="toc" class="well">
+    <section id="info">
+      <p><span class="glyphicon glyphicon-time"></span> Posted on Thu 20 Sep, 2007</p>
+    </section>
+    <section id="social">
+  <h4><span class="fa fa-share-alt"> </span> Share</h4>
+  <ul class="social">
+    <li> <a href="https://twitter.com/intent/tweet?status=Site%20Update-http%3a%2f%2fvurt.co.uk%2farchive%2fsite-update" target="_blank" title="Tweet this" class="twitter"><span class="fa fa-twitter-square fa-fw"></span>Twitter</a> </li>
+    <li> <a href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fvurt.co.uk%2farchive%2fsite-update" target="_blank" title="Share this on Facebook" class="facebook"><span class="fa fa-facebook-square fa-fw"></span>Facebook</a> </li>
+    <li> <a href="https://plus.google.com/share?url=http%3a%2f%2fvurt.co.uk%2farchive%2fsite-update" target="_blank" title="Google+" class="googleplus"><span class="fa fa-google-plus-square fa-fw"></span>Google+</a> </li>
+    <li> <a href="http://www.linkedin.com/shareArticle?mini=true&url=http%3a%2f%2fvurt.co.uk%2farchive%2fsite-update&title=Site%20Update&source=vurt.co.uk" target="_blank" title="LinkedIn" class="linkedin"><span class="fa fa-linkedin-square fa-fw"></span>LinkedIn</a> </li>
+    <li> <a href="http://www.reddit.com/submit?url=http%3a%2f%2fvurt.co.uk%2farchive%2fsite-update" target="_blank" title="Reddit" class="reddit"><span class="fa fa-reddit-square fa-fw"></span>Reddit</a> </li>
+  </ul>
+
+</section>
+
+        <section id="next">
+      <a class="next" href="http://vurt.co.uk/archive/nokia-770"><i class="glyphicon glyphicon-chevron-left"></i> Nokia 770</a>
+    </section>
+    <section id="prev">
+      <a class="previous" href="http://vurt.co.uk/archive/possible-holiday-destinations"><i class="glyphicon glyphicon-chevron-right"></i> Possible holiday destinations</a><br>
+    </section>
+
+    
+  </div>
+
+    </div>
+  </div>
+
+  <hr>
+
+  <footer>
+    <div class="row">
+      <div class="col-lg-12">
+        <p>Copyright &copy; Giles Paterson</p>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-52057933-1', 'vurt.co.uk');
+  ga('send', 'pageview');
+
+  </script>
+  <script src="/js/jquery-2.1.1.min.js"></script>
+  <script src="/js/bootstrap.min.js"></script>
+  </body>
+</html>
+
