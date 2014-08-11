@@ -4,6 +4,5 @@ echo
 
 export PATH=~/bin/:$PATH
 
-git --git-dir=/home/gpaterson/vurt.co.uk/.git --work-tree=/home/gpaterson/vurt.co.uk pull 2>&1
-hugo --theme=vurt --source=/home/gpaterson/vurt.co.uk --destination=/home/gpaterson/vurt.co.uk/public --config=config -v
+git --git-dir=/home/gpaterson/vurt.co.uk/public/.git --work-tree=/home/gpaterson/vurt.co.uk/public pull 2>&1
 echo DONE
