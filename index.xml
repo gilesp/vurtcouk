@@ -118,6 +118,26 @@
     </item>
     
     <item>
+      <title>Replacing a Defender Mudflap</title>
+      <link>http://vurt.co.uk/project/defender_mudflap</link>
+      <pubDate>Sat, 17 May 2014 20:21:04 UTC</pubDate>
+      
+      <guid>http://vurt.co.uk/project/defender_mudflap</guid>
+      <description>&lt;p&gt;My Landrover Defender 110 lost one of its rear mudflaps a while back and was looking rather tatty as a result. So after a few months of putting the job off, I finally bought some replacement rubber and set about putting things right.&lt;/p&gt;
+
+&lt;p&gt;The old flap had torn off, leaving a stub still attached to the bracket by a couple of rivets: &lt;a href=&#34;/images/landrover/mudflap/DSCF1944.png&#34;&gt;&lt;img src=&#34;/images/landrover/mudflap/DSCF1944_thumb.png&#34; alt=&#34;Torn off mudflap&#34; title=&#34;Torn off mudflap&#34; /&gt;
+&lt;/a&gt; The old rubber must have come loose previously as one of the rivets was replaced witha  nut and bolt. I removed that and drilled out the two remaining rivets to be left with an empty bracket: &lt;a href=&#34;/images/landrover/mudflap/DSCF1951.png&#34;&gt;&lt;img src=&#34;/images/landrover/mudflap/DSCF1951_thumb.png&#34; alt=&#34;Bracket with old rivets removed&#34; title=&#34;Bracket with old rivets removed&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Then it was simply a case of attaching the replacement rubber to the bracket using new M6 bolts and locking nuts and a couple of large repair washers to hold everything in place, as shown here: &lt;a href=&#34;/images/landrover/mudflap/DSCF1952.png&#34;&gt;&lt;img src=&#34;/images/landrover/mudflap/DSCF1952_thumb.png&#34; alt=&#34;Bolt and washer arrangement&#34; title=&#34;Bolt and washer arrangement&#34; /&gt;
+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The job took a total of about 30 minutes and most of that was because my cordless drill ran out of juice as it wasn&amp;rsquo;t really powerful enough to dril lout the rivets, meaning I had to dig out my big corded drill. I&amp;rsquo;m pleased with the result as balance has been restored to the rear of my truck: &lt;a href=&#34;/images/landrover/mudflap/DSCF1958.png&#34;&gt;&lt;img src=&#34;/images/landrover/mudflap/DSCF1958_thumb.png&#34; alt=&#34;Balance restored!&#34; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rewriting history with git</title>
       <link>http://vurt.co.uk/archive/rewriting-history-with-git</link>
       <pubDate>Fri, 31 May 2013 09:15:40 &#43;0000</pubDate>
@@ -351,28 +371,6 @@ I decided to use a 6&amp;rsquo;x3&amp;rsquo; lattice fence panel as the back of 
 &lt;p&gt;When you next start eclipse, the Network Connections preferences will be prepopulated with the gnome proxy settings. It took me a while to figure this out, and I&amp;rsquo;ll no doubt need to do it again sometime, so this post is mostly for my own benefit, but hopefully someone else will find it useful too.&lt;/p&gt;
 
 &lt;p&gt;Bootnote: You may be wondering why I didn&amp;rsquo;t just install 3.6 and run that. Well mainly because it&amp;rsquo;s not fully supported by the &lt;a href=&#34;http://www.springsource.com/products/sts&#34;&gt;SpringSource Tool Suite&lt;/a&gt; and also it&amp;rsquo;d mean looking after upgrades and dependencies myself. I&amp;rsquo;d rather have apt handle all that for me.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ubuntu Lucid 10.04 Active Directory Woes</title>
-      <link>http://vurt.co.uk/archive/ubuntu-lucid-10-04-active-directory-woes</link>
-      <pubDate>Tue, 04 May 2010 14:51:45 &#43;0000</pubDate>
-      
-      <guid>http://vurt.co.uk/archive/ubuntu-lucid-10-04-active-directory-woes</guid>
-      <description>&lt;p&gt;I was looking forward to the launch of Lucid Lynx as &lt;a href=&#34;http://www.ubuntu.com/testing/lucid/beta2#Major%20new%20version%20of%20likewise-open&#34;&gt;one of the main features being touted&lt;/a&gt; was improved support for joining an Active Directory domain, in the form of Likewise-open. Now this isn&amp;rsquo;t something that most users will care about, but in a corporate environment, allowing users to login to Ubuntu using the same credentials as they use on their windows machines is pretty important. Previously I&amp;rsquo;d set things up manually by configuring Samba and Winbind, but that was a pain in the backside, so Likewise-open was an appealing option.&lt;/p&gt;
-
-&lt;p&gt;Sadly, I&amp;rsquo;ve been very disappointed so far. It seems that the version of Likewise-open that ships with Kucid, has a number of glaring bugs that make it virtually pointless.&lt;/p&gt;
-
-&lt;p&gt;Firstly, there is &lt;a href=&#34;https://bugs.launchpad.net/ubuntu/+source/likewise-open/+bug/534629&#34;&gt;no support for a default domain&lt;/a&gt;. This means that the user has to always log in as user.name@domain or domain\user.name which is a pain. It&amp;rsquo;s not a show stopper but it is trivial to set up using samba, so why can&amp;rsquo;t Likewise support it? Well, Likewise claims to support it, via a registry setting, it&amp;rsquo;s just that it&amp;rsquo;s broken.&lt;/p&gt;
-
-&lt;p&gt;More importantly, is the &lt;a href=&#34;https://bugs.launchpad.net/ubuntu/+source/likewise-open/+bug/572271&#34;&gt;broken credential caching&lt;/a&gt;. Laptops aren&amp;rsquo;t always connected to the domain, so any solution needs to be able to cache credentials to let the user log in when they&amp;rsquo;re out and about. It turns out that the default cache timeout in Likewise is 4 hours. And there&amp;rsquo;s no way to change that. 4 Hours! So that means when you take your laptop home with you at night, intending to work at home the enxt day, you faced with the fact that you can&amp;rsquo;t log in in the morning, or even later that evening. How handy.&lt;/p&gt;
-
-&lt;p&gt;Until these issues can be resolved, I&amp;rsquo;m going to purge Likewise and resort to the Samba config method. It&amp;rsquo;s long winded, but at least it&amp;rsquo;s tried and tested and I can actually configure it to work how I need it to. Who knows, maybe Meerkat will have working Likewise, it&amp;rsquo;s just a shame Canonical were touting it as a big improvement in Lucid.&lt;/p&gt;
-
-&lt;p&gt;Oh yes, and on a side note, when I upgraded my netbook from 9.10 to 10.04, it killed my wifi and lost the nice netbook remix clutter UI. Ho hum. Time to do a clean install and see if that fixes things.&lt;/p&gt;
-
-&lt;p&gt;Don&amp;rsquo;t get me wrong - I&amp;rsquo;m still a big Ubuntu and Linux fan, I just would have liked this launch to have gone a bit smoother&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
