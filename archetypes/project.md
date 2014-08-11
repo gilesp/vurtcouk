@@ -1,6 +1,6 @@
 +++
 projects = []
 tags = []
-img =
+img = ""
 icon = "fa-cogs"
 +++
