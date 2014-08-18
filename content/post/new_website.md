@@ -3,6 +3,7 @@ icon = "fa-comment"
 tags = []
 title = "New Site Workflow"
 date = 2014-08-05T10:32:25Z
+img = "http://unsplash.it/g/900/300?random"
 +++
 I've updated my website to have a new look and feel, obviously based on a bootstrap theme because I'm no designer and I'm lazy. However, the biggest change is that I've moved away from using Wordpress to a static site generator called [Hugo](http://hugo.spf13.com "Hugo, A Fast & Modern Static Website Engine").
 
