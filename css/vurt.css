@@ -10,7 +10,7 @@ footer {
 }
 
 .feature-img {
-  height: 300px;
+  max-height: 300px;
   overflow: hidden;
 }
 
@@ -47,4 +47,5 @@ h2 span.fa {
   display: block;
   max-width: 100%;
   height: auto;
+  margin: 0 auto;
 }
