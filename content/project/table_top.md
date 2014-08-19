@@ -5,6 +5,7 @@ projects = ["Garden Table"]
 tags = ["diy", "table", "scaffold planks", "reuse"]
 title = "Making a scaffold plank table"
 date = 2014-07-12T09:05:45Z
+Description = "For a while now, I've fancied having a nice little bistro-style table to go on the patio in my garden but was unable to find anything that I liked. As I had a some 7ft scaffold planks left over from building some raised beds, I decided to use one of those and make my own table top."
 +++
 
 [planks_thumb]: /images/table/top/DSCF2153_thumb.png
