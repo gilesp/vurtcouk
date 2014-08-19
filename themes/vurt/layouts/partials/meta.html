@@ -20,5 +20,7 @@
 <meta name="twitter:title" content="{{ .Title }} : vurt.co.uk">
 <meta name="twitter:creator" content="@gilesp">
 <meta name="twitter:description" content="{{ .Description }}">
-<meta name="twitter:image:src" content="">
+{{if isset .Params "img"}}
+<meta name="twitter:image:src" content="{{.Params.img}}">
+{{end}}
 <meta name="twitter:domain" content="vurt.co.uk">
