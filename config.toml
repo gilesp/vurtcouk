@@ -1,30 +1,50 @@
-baseurl = "http://vurt.co.uk/"
+baseurl = "http://vurt.uk/"
 languageCode = "en-gb"
 title = "vurt"
+theme = "ghostwriter"
+copyright = "Giles Paterson"
 
-[params]
-  AuthorName = "Giles Paterson"
-  GitHubUser = "gilesp"
-  SubTitle = "Ideas for things to do and how to (possibly) do them"    
+[Author]
+    name = "Giles Paterson"
+    profile = "https://plus.google.com/u/0/+GilesPaterson"
+    
+[Params]
+   AuthorName = "Giles Paterson"
+    intro = true
+    headline = "vurt.uk"
+    description = "Ideas for things to do and how to (possibly) do them"
+    github = "https://github.com/gilesp"
+    twitter = "https://twitter.com/gilesp"
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
-  project = "projects"
 
 [indexes]
   project = "projects"
   idea = "ideas"
+  archive = "archives"
 
+[[menu.main]]
+  name = "Blog"
+  url = "/"
+  weight = 1
+  
 [[menu.main]]
   name = "Projects"
   identifier = "projects"
-  url = "/projects"
+  url = "/project/"
   pre = "fa-cogs"
+  weight = 2
 
 [[menu.main]]
   name = "Ideas"
   identifier = "ideas"
-  url = "/ideas"
+  url = "/idea/"
   pre = "fa-bolt"
+  weight = 3
 
+[[menu.main]]
+  name = "Archive"
+  identifier = "archives"
+  url = "/archive/"
+  weight = 4
