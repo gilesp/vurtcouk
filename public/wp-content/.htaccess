@@ -1,5 +1,0 @@
-Order Allow,Deny
-Deny from all
-<Files ~ ".(css|jpeg|jpg|png|gif|js|pdf|rtf|odt|txt)$">
- Allow from all
-</Files>
