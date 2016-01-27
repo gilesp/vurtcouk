@@ -30,7 +30,6 @@ ignoreFiles = [ "\\.org$" ]
 [indexes]
     project = "projects"
     idea = "ideas"
-    archive = "archives"
 
 [blackfriday]
     plainIDAnchors = true
@@ -53,9 +52,3 @@ ignoreFiles = [ "\\.org$" ]
     url = "/idea/"
     pre = "fa-bolt"
     weight = 3
-
-[[menu.main]]
-    name = "Archive"
-    identifier = "archives"
-    url = "/archive/"
-    weight = 4
