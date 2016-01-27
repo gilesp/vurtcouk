@@ -3,6 +3,14 @@ languageCode = "en-gb"
 title = "vurt"
 theme = "ghostwriter"
 copyright = "Giles Paterson"
+contentdir = "content"
+publishdir = "public"
+staticdir = "static"
+builddrafts = false
+canonifyurls = false
+defaultExtension = "html"
+pluralizeListTitles = true
+ignoreFiles = [ "\\.org$" ]
 
 [author]
     name = "Giles Paterson"
@@ -23,6 +31,9 @@ copyright = "Giles Paterson"
     project = "projects"
     idea = "ideas"
     archive = "archives"
+
+[blackfriday]
+    plainIDAnchors = true
 
 [[menu.main]]
     name = "Blog"
