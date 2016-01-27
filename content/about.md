@@ -15,4 +15,4 @@ Yet another incarnation of my website, this time the intention is to use it as a
 Giles Paterson
 
 ## What's this made with?
-Hugo.
+[Hugo](http://gohugo.io/) and [Emacs](https://www.gnu.org/software/emacs/).
