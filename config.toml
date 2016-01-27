@@ -4,12 +4,12 @@ title = "vurt"
 theme = "ghostwriter"
 copyright = "Giles Paterson"
 
-[Author]
+[author]
     name = "Giles Paterson"
     profile = "https://plus.google.com/u/0/+GilesPaterson"
-    
-[Params]
-   AuthorName = "Giles Paterson"
+
+[params]
+    AuthorName = "Giles Paterson"
     intro = true
     headline = "vurt.uk"
     description = "Ideas for things to do and how to (possibly) do them"
@@ -17,34 +17,34 @@ copyright = "Giles Paterson"
     twitter = "https://twitter.com/gilesp"
 
 [taxonomies]
-  tag = "tags"
+    tag = "tags"
 
 [indexes]
-  project = "projects"
-  idea = "ideas"
-  archive = "archives"
+    project = "projects"
+    idea = "ideas"
+    archive = "archives"
 
 [[menu.main]]
-  name = "Blog"
-  url = "/"
-  weight = 1
-  
-[[menu.main]]
-  name = "Projects"
-  identifier = "projects"
-  url = "/project/"
-  pre = "fa-cogs"
-  weight = 2
+    name = "Blog"
+    url = "/"
+    weight = 1
 
 [[menu.main]]
-  name = "Ideas"
-  identifier = "ideas"
-  url = "/idea/"
-  pre = "fa-bolt"
-  weight = 3
+    name = "Projects"
+    identifier = "projects"
+    url = "/project/"
+    pre = "fa-cogs"
+    weight = 2
 
 [[menu.main]]
-  name = "Archive"
-  identifier = "archives"
-  url = "/archive/"
-  weight = 4
+    name = "Ideas"
+    identifier = "ideas"
+    url = "/idea/"
+    pre = "fa-bolt"
+    weight = 3
+
+[[menu.main]]
+    name = "Archive"
+    identifier = "archives"
+    url = "/archive/"
+    weight = 4
