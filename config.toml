@@ -30,6 +30,7 @@ ignoreFiles = [ "\\.org$" ]
 [indexes]
     project = "projects"
     idea = "ideas"
+    tag = "tags"
 
 [blackfriday]
     plainIDAnchors = true
