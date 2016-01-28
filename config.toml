@@ -23,6 +23,9 @@ ignoreFiles = [ "\\.org$" ]
     description = "Ideas for things to do and how to (possibly) do them"
     github = "https://github.com/gilesp"
     twitter = "https://twitter.com/gilesp"
+    stackoverflow = "https://stackoverflow.com/users/1514202/gilesp"
+    gplus = "https://google.com/+GilesPaterson"
+    linkedin = "https://uk.linkedin.com/in/gpaterson"
 
 [taxonomies]
     tag = "tags"
