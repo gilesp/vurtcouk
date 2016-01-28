@@ -8,11 +8,11 @@ description = "How I (very occasionally) blog"
 #+END_EXPORT
 
 I've recently updated my blogging setup so that I can write my posts using 
-[org-mode](http://www.org-mode.org) from within Emacs. Why? So I can get into 
+[org-mode](http://www.orgmode.org) from within Emacs. Why? So I can get into 
 the habit of using org-mode more frequently, and because I had a spare half hour
 to tinker with my emacs setup...
 
-By default [Hugo](https://gohugo.io) expects you to write your posts with markdown
+By default [Hugo](http://gohugo.io) expects you to write your posts with markdown
  and it then converts them into static html for uploading to your website. Hugo 
 does not (currently) support org mode files natively so I needed some way to 
 convert my org-mode content into markdown. The two most obvious options are:
@@ -48,7 +48,7 @@ Then I can publish with ~C-c C-e P x~ (I need to come up with a shorter key comb
 for that) and all my .org files in ~org-content~ will be converted to .md files in ~content~.
 
 One thing to note is that I'm using a custom publishing-function instead of the built in 
-~org-md-publish-to-md~ one. The reason for this is that hugo accepts github flavoured markdown,
+~org-md-publish-to-md~ one. The reason for this is that hugo accepts [github flavoured markdown](https://help.github.com/articles/working-with-advanced-formatting/),
 which provides better support for code blocks than vanilla markdown. In the org-mode contrib
 sources, there is an ~ox-gfm.el~ file that provides github flavoured markdown but it doesn't
 provide a publish function. I merely created one based on the ~ox-md.el~ version:
@@ -65,7 +65,7 @@ Return output file name."
   (org-publish-org-to 'gfm filename ".md" plist pub-dir))
 #+END_SRC
 
-The only other consideration is the [frontmatter](https://blah) that hugo expects. I need to be able
+The only other consideration is the [front matter](http://gohugo.io/content/front-matter/) that hugo expects. I need to be able
 to make a section of the org file appear as-is in the published markdown file.
 To achieve this, I simply stick it at the start of my org file and wrap it in a 
 ~#+BEGIN_EXPORT md~ and ~#+END_EXPORT~. The EXPORT tells org mode to simply pass
