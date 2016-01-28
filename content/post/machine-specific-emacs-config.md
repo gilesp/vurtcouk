@@ -24,10 +24,12 @@ any configuration required only by the current computer I'm using.
 
 Here's the code I have in my init.el that makes this possible:
 
-    ;; load machine specific init file
-    ;; it looks for a file names <hostname>.el and loads it if present
-    ;; use it for require-ing different configs for each machine you use
-    (setq gilesp-local-filename (concat system-name ".el"))
-    (setq gilesp-local-file (expand-file-name gilesp-local-filename user-emacs-directory))
-    (when (file-readable-p gilesp-local-file)
-      (load-file gilesp-local-file))
+```lisp
+;; load machine specific init file
+;; it looks for a file names <hostname>.el and loads it if present
+;; use it for require-ing different configs for each machine you use
+(setq gilesp-local-filename (concat system-name ".el"))
+(setq gilesp-local-file (expand-file-name gilesp-local-filename user-emacs-directory))
+(when (file-readable-p gilesp-local-file)
+  (load-file gilesp-local-file))
+```
