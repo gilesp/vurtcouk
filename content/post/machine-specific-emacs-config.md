@@ -1,5 +1,5 @@
 +++
-tags = []
+tags = ["emacs"]
 title = "Host specific config with Emacs"
 date = 2016-01-27T11:43:18Z
 +++
