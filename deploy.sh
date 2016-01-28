@@ -8,6 +8,6 @@ rm -rf public/*
 hugo 
 
 echo -e "\033[0;32mDeploying...\033[0m"
-rsync -r public/* gpaterson@vurt.co.uk:/home/gpaterson/vurt.co.uk/public/
+rsync -r --delete public/ gpaterson@vurt.co.uk:/home/gpaterson/vurt.co.uk/public
 
 echo -e "\033[0;32mDone.\033[0m"
