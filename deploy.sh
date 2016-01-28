@@ -1,21 +1,13 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to prod_live...\033[0m"
+echo -e "\033[0;32mUpdating themse...\033[0m"
+git submodule foreach git pull origin master
 
-#Delete old public folder content
+echo -e "\033[0;32mBuilding site...\033[0m"
 rm -rf public/*
+hugo 
 
-#Build the project
-hugo -t vurt
+echo -e "\033[0;32mDeploying...\033[0m"
+rsync -r public/* gpaterson@vurt.co.uk:/home/gpaterson/vurt.co.uk/public/
 
-#Add changes to git.
-git add -A
-
-#Commit changes
-msg="Updating site `date`"
-
-git commit -m "$msg"
-
-#Push source and build repos
-git push origin master
-git subtree push --prefix=public git@github.com:gilesp/vurtcouk.git public_prod
+echo -e "\033[0;32mDone.\033[0m"
