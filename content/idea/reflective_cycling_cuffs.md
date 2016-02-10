@@ -1,0 +1,23 @@
++++
+title = "Reflective Cycling Cuffs"
+description = "Slip on retro-reflective wristband for cycling"
+date = 2016-02-08T18:17:42Z
+tags = ["cycling", "diy"]
++++
+
+I am a utility cyclist (I ride an upright dutch bike with a box on the front as part 
+of my daily commute). For this I wear normal clothes as much as possible, but I also
+look for ways to improve my visibility at night with retro-reflective (not Hi-Viz) fabrics.
+
+I'd like to make my hands/gloves more visible when indicating turns, so a slip on patch or
+band made of elasticated reflective material would be useful.
+
+Alternatively a velcro backed reflective patch could be used for wooley gloves.
+
+Key features:
+
+-   Silver/grey retro-reflective fabric
+
+\*\* Could be different colours for visibility during the day as well?
+
+-   Elasticated, for ease of slipping on or off.

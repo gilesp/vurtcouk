@@ -1,0 +1,52 @@
+#+BEGIN_EXPORT md
++++
+title = "Do you like games?"
+description = "Thoughts about a micro ARG running on a raspberry pi"
+date = 2016-02-10T18:31:28Z
+tags = ["games", "toys"]
++++
+#+END_EXPORT
+A mini, puzzle orientated game hosted on a raspberry pi or similar
+small device.
+
+It could act as an open wifi access point, maybe running some sort of
+captive portal?
+
+Make it text based, with a green screen terminal interface - accessing
+any website would redirect you to the opening page of the game - green
+screen themed. Hinting at retro nature and hopefully pointing people
+towards possibilities like Telnet/Gopher etc.
+
+Possible Themes:
+ - Murder mystery
+ - Educational
+ - Retro Futuristic
+   - Early internet protocols (Gopher, etc) but evolved to modern usage
+ - Time travel - sent form the future but misjudged current technology?
+ - ???
+
+It could have a twitter (or other social network) feed:
+ - Progress updates (e.g. "gilesp has joined the game", "johnsmith has
+   discovered a clue")
+ - (Alternatively?) the home screen could display a status feed
+
+Part of the game could be a gopher server running on the host
+ - Clues to gopher presence:
+   - A reference to the gopher RFC could act as an early clue
+   - The host/port could be enciphered somehow
+   - (partial) Code for gopher client on a page on captive portal
+     - Also discussion of (modern) gopher clients
+ - Gopher server could contain content for story section and/or clues
+   to next section
+
+Puzzles
+ - Baudot - telegraph code?
+|---+------+------+-------+------+---|
+| H |      | *    | *     | *    |   |
+| E |      |      |       | *    |   |
+| L | *    | *    | *     | *    |   |
+| L | *    | *    | *     | *    |   |
+| 0 |      |      | *     | *    | * |
+|   | Left | Hand | Right | Hand |   |
+
+
