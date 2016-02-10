@@ -17,7 +17,5 @@ Alternatively a velcro backed reflective patch could be used for wooley gloves.
 Key features:
 
 -   Silver/grey retro-reflective fabric
-
-\*\* Could be different colours for visibility during the day as well?
-
+    -   Could be different colours for visibility during the day as well?
 -   Elasticated, for ease of slipping on or off.
