@@ -2,7 +2,7 @@
 +++
 title = "Presentation recording app"
 description = "An (android) app to record and run presentations"
-date = 2016-02-10T18:55:01Z
+date = 2015-10-01T18:55:01Z
 tags = ["apps"]
 +++
 #+END_EXPORT
