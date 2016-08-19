@@ -18,7 +18,7 @@ ask me to enter the PIN.
 
 Thankfully, I managed to spend a bit of time today investigating this
 issue and found that magit uses a series of regexps for identifying
-various passphrase prompts and you can customise this equite easily.
+various passphrase prompts and you can customise this quite easily.
 
 Here's the customisation I use:
 

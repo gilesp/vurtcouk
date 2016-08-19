@@ -37,7 +37,6 @@ config for that:
          :recursive t
          :publishing-function gp-org-gfm-publish-to-md
          )
-
         ))
 ```
 
