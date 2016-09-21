@@ -1,11 +1,11 @@
-#+BEGIN_EXPORT md
+#+BEGIN_MD
 +++
 title = "Presentation recording app"
 description = "An (android) app to record and run presentations"
 date = 2015-10-01T18:55:01Z
 tags = ["apps"]
 +++
-#+END_EXPORT
+#+END_MD
 When giving talks or presentations at work, we often record them so
 that people who can't attend can view them later. Currently this is
 done with a decent still scamera that also records video and a
