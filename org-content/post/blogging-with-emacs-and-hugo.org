@@ -1,11 +1,11 @@
-#+BEGIN_EXPORT md
+#+BEGIN_MD
 +++
 tags = ["emacs", "hugo", "org"]
 title = "Blogging with Emacs, org-mode and Hugo"
 date = 2016-01-28T18:08:04Z
 description = "How I (very occasionally) blog"
 +++
-#+END_EXPORT
+#+END_MD
 
 I've recently updated my blogging setup so that I can write my posts using 
 [org-mode](http://www.orgmode.org) from within Emacs. Why? So I can get into 

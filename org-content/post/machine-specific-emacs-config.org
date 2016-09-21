@@ -1,10 +1,10 @@
-#+BEGIN_EXPORT md
+#+BEGIN_MD
 +++
 tags = ["emacs"]
 title = "Host specific config with Emacs"
 date = 2016-01-27T11:43:18Z
 +++
-#+END_EXPORT
+#+END_MD
 
 I'm a regular Emacs user, although I still class myself as a beginner - every day I find some 
 new feature or function that I'd like to make use of.

@@ -1,11 +1,11 @@
-#+BEGIN_EXPORT md
+#+BEGIN_MD
 +++
 title = "Do you like games?"
 description = "Thoughts about a micro ARG running on a raspberry pi"
 date = 2016-02-10T18:31:28Z
 tags = ["games", "toys"]
 +++
-#+END_EXPORT
+#+END_MD
 A mini, puzzle orientated game hosted on a raspberry pi or similar
 small device.
 

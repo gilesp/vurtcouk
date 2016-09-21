@@ -1,35 +1,36 @@
-#+BEGIN_MD
 +++
 title = "A Summary of the 5 Stage Model of Skill Acquisition"
 description = "Learning about how we learn by reading academic papers"
 tags = ["learning", "academic papers"]
 date = 2016-08-19T16:12:10Z
 +++
-#+END_MD
-I'm interested in learning about how we learn, and inspired by [[https://blog.acolyer.org/][Adrian
-Colyer's blog]] and [[https://www.infoq.com/presentations/research-future][QCon keynote]], I decided to have a go at reading and
+
+I'm interested in learning about how we learn, and inspired by [Adrian
+Colyer's blog](https://blog.acolyer.org/) and [QCon keynote](https://www.infoq.com/presentations/research-future), I decided to have a go at reading and
 summarising a paper.
 
-I've chosen [[http://handle.dtic.mil/100.2/ADA084551]["A Five-Stage Model of the Mental Activities Involved in
-Directed Skill Acquisition"]] by Stuart E. Dreyfuss and Hubert L.
+I've chosen ["A Five-Stage Model of the Mental Activities Involved in
+Directed Skill Acquisition"](http://handle.dtic.mil/100.2/ADA084551) by Stuart E. Dreyfuss and Hubert L.
 Dreyfuss. It was written in 1980 for the United States Air Force.
 
 Th paper proposes five stages through which a student passes when
 learning a new skill, and that concrete experience becomes more
 important that abstract principles as the student progresses. The
 stages are:
- 1. Novice
- 2. Competence
- 3. Proficiency
- 4. Expertise
- 5. Mastery
+
+1.  Novice
+2.  Competence
+3.  Proficiency
+4.  Expertise
+5.  Mastery
 
 This paper is very easy to read and doesn't require any particular
 previous experience or expertise in the subject area. It also opens
 with the mental image of a baby flailing around trying to learn how to pilot
-an aeroplane[fn:1], which tickled me.
+an aeroplane<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, which tickled me.
 
-** Novice
+# Novice<a id="orgheadline1"></a>
+
 A novice learner is given non-situational (context free) features
 which they can recognise without experience and a set of rule for
 determining an action based on these features. For example, a novice
@@ -39,7 +40,8 @@ they move (rules).
 To improve, the novice needs monitoring (by instructional feedback, or
 self observation) to align his behaviour more closely with the rules.
 
-** Competence
+# Competence<a id="orgheadline2"></a>
+
 Considerable real-world experience is required to achieve competence,
 where the student has been shown or observed recurrent patterns.
 Situational context can only be identified from clear examples. A
@@ -49,7 +51,8 @@ structure" and the actions to compensate for this situation.
 Guidelines can be formulated by the instructor that dictate actions
 for these recurrent aspects.
 
-** Proficiency
+# Proficiency<a id="orgheadline3"></a>
+
 As the student gains more practice, they are exposed to a wider
 variety of whole situations, and how those situations are relevant to
 their long term goal. This is a more holistic view than the Competence
@@ -58,7 +61,8 @@ stage.
 A set of maxims (memorised principles) can be used to determine the
 appropriate action in a given situation.
 
-** Expertise
+# Expertise<a id="orgheadline4"></a>
+
 This is the final step-wise improvement stage.The student has such a
 large repertoire of experience that they can intuitively dtermine the
 appropriate action. Each type of situation now has a specific response
@@ -67,23 +71,17 @@ associated with it.
 An epxert chess player will intuitively know an appropriate move to
 play when looking at a given chess board configuration.
 
-** Mastery
+# Mastery<a id="orgheadline5"></a>
+
 Mastery isn't an increase in mental capacity, rather it's the ability
 to experience moment of intense absorbtion in a task, allowing the
 master to achieve a higher level of performance. The master no longer
 needs to consciously think about his performance.
 
-** Conclusion
+# Conclusion<a id="orgheadline6"></a>
 
 The aim of this paper is to provide a model that aids in the design of
 training courses and materials. By being aware of the developmental
 stage that the student is at, the training materials can facilitate
 the advancement to the next stage. Introducing sophisiticated material
 at an earlier stage would impede the students advancement.
-
-
-[fn:1] "He can, like a baby, pick it up by imitation and floundering
-trial-and-error, or he can seek the aid of an instructor or
-instructional manual. The latter approach is far more efficient, and
-in the case of dangerous activities, such as aircraft piloting, essential."
-
