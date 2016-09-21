@@ -100,5 +100,5 @@ javascript:location.href="org-protocol://capture://X/"
 
 So far, I've found this a nifty integration but it's early days yet so
 I may end up tweaking things further. One thing I *do* want to take a
-look at is [org-protocol-capture](https://github.com/alphapapa/org-protocol-capture-html) which seems to do a nicer job of
+look at is [org-protocol-capture-html](https://github.com/alphapapa/org-protocol-capture-html) which seems to do a nicer job of
 formatting the selected text using pandoc.

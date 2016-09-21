@@ -95,5 +95,5 @@ template key you like:
 
 So far, I've found this a nifty integration but it's early days yet so
 I may end up tweaking things further. One thing I /do/ want to take a
-look at is [[https://github.com/alphapapa/org-protocol-capture-html][org-protocol-capture]] which seems to do a nicer job of
+look at is [[https://github.com/alphapapa/org-protocol-capture-html][org-protocol-capture-html]] which seems to do a nicer job of
 formatting the selected text using pandoc.
