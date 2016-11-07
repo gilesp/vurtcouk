@@ -1,11 +1,11 @@
-#+BEGIN_MD
+#+BEGIN_EXPORT MD
 +++
 title = "A Summary of the 5 Stage Model of Skill Acquisition"
 description = "Learning about how we learn by reading academic papers"
 tags = ["learning", "academic papers"]
 date = 2016-08-19T16:12:10Z
 +++
-#+END_MD
+#+END_EXPORT
 I'm interested in learning about how we learn, and inspired by [[https://blog.acolyer.org/][Adrian
 Colyer's blog]] and [[https://www.infoq.com/presentations/research-future][QCon keynote]], I decided to have a go at reading and
 summarising a paper.

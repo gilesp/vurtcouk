@@ -5,18 +5,11 @@ tags = ["learning", "academic papers"]
 date = 2016-08-19T16:12:10Z
 +++
 
-I'm interested in learning about how we learn, and inspired by [Adrian
-Colyer's blog](https://blog.acolyer.org/) and [QCon keynote](https://www.infoq.com/presentations/research-future), I decided to have a go at reading and
-summarising a paper.
+I'm interested in learning about how we learn, and inspired by [Adrian Colyer's blog](https://blog.acolyer.org/) and [QCon keynote](https://www.infoq.com/presentations/research-future), I decided to have a go at reading and summarising a paper.
 
-I've chosen ["A Five-Stage Model of the Mental Activities Involved in
-Directed Skill Acquisition"](http://handle.dtic.mil/100.2/ADA084551) by Stuart E. Dreyfuss and Hubert L.
-Dreyfuss. It was written in 1980 for the United States Air Force.
+I've chosen ["A Five-Stage Model of the Mental Activities Involved in Directed Skill Acquisition"](http://handle.dtic.mil/100.2/ADA084551) by Stuart E. Dreyfuss and Hubert L. Dreyfuss. It was written in 1980 for the United States Air Force.
 
-Th paper proposes five stages through which a student passes when
-learning a new skill, and that concrete experience becomes more
-important that abstract principles as the student progresses. The
-stages are:
+Th paper proposes five stages through which a student passes when learning a new skill, and that concrete experience becomes more important that abstract principles as the student progresses. The stages are:
 
 1.  Novice
 2.  Competence
@@ -24,64 +17,58 @@ stages are:
 4.  Expertise
 5.  Mastery
 
-This paper is very easy to read and doesn't require any particular
-previous experience or expertise in the subject area. It also opens
-with the mental image of a baby flailing around trying to learn how to pilot
-an aeroplane<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, which tickled me.
+This paper is very easy to read and doesn't require any particular previous experience or expertise in the subject area. It also opens with the mental image of a baby flailing around trying to learn how to pilot an aeroplane<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, which tickled me.
 
-# Novice<a id="orgheadline1"></a>
 
-A novice learner is given non-situational (context free) features
-which they can recognise without experience and a set of rule for
-determining an action based on these features. For example, a novice
-chess player would be told the names of the pieces (features) and how
-they move (rules).
+<a id="orgda6f065"></a>
 
-To improve, the novice needs monitoring (by instructional feedback, or
-self observation) to align his behaviour more closely with the rules.
+# Novice
 
-# Competence<a id="orgheadline2"></a>
+A novice learner is given non-situational (context free) features which they can recognise without experience and a set of rule for determining an action based on these features. For example, a novice chess player would be told the names of the pieces (features) and how they move (rules).
 
-Considerable real-world experience is required to achieve competence,
-where the student has been shown or observed recurrent patterns.
-Situational context can only be identified from clear examples. A
-competent chess player will be able to identify an "unbalanced pawn
-structure" and the actions to compensate for this situation.
+To improve, the novice needs monitoring (by instructional feedback, or self observation) to align his behaviour more closely with the rules.
 
-Guidelines can be formulated by the instructor that dictate actions
-for these recurrent aspects.
 
-# Proficiency<a id="orgheadline3"></a>
+<a id="org22ee6a1"></a>
 
-As the student gains more practice, they are exposed to a wider
-variety of whole situations, and how those situations are relevant to
-their long term goal. This is a more holistic view than the Competence
-stage.
+# Competence
 
-A set of maxims (memorised principles) can be used to determine the
-appropriate action in a given situation.
+Considerable real-world experience is required to achieve competence, where the student has been shown or observed recurrent patterns. Situational context can only be identified from clear examples. A competent chess player will be able to identify an "unbalanced pawn structure" and the actions to compensate for this situation.
 
-# Expertise<a id="orgheadline4"></a>
+Guidelines can be formulated by the instructor that dictate actions for these recurrent aspects.
 
-This is the final step-wise improvement stage.The student has such a
-large repertoire of experience that they can intuitively dtermine the
-appropriate action. Each type of situation now has a specific response
-associated with it.
 
-An epxert chess player will intuitively know an appropriate move to
-play when looking at a given chess board configuration.
+<a id="orgb479252"></a>
 
-# Mastery<a id="orgheadline5"></a>
+# Proficiency
 
-Mastery isn't an increase in mental capacity, rather it's the ability
-to experience moment of intense absorbtion in a task, allowing the
-master to achieve a higher level of performance. The master no longer
-needs to consciously think about his performance.
+As the student gains more practice, they are exposed to a wider variety of whole situations, and how those situations are relevant to their long term goal. This is a more holistic view than the Competence stage.
 
-# Conclusion<a id="orgheadline6"></a>
+A set of maxims (memorised principles) can be used to determine the appropriate action in a given situation.
 
-The aim of this paper is to provide a model that aids in the design of
-training courses and materials. By being aware of the developmental
-stage that the student is at, the training materials can facilitate
-the advancement to the next stage. Introducing sophisiticated material
-at an earlier stage would impede the students advancement.
+
+<a id="org03abcfc"></a>
+
+# Expertise
+
+This is the final step-wise improvement stage.The student has such a large repertoire of experience that they can intuitively dtermine the appropriate action. Each type of situation now has a specific response associated with it.
+
+An epxert chess player will intuitively know an appropriate move to play when looking at a given chess board configuration.
+
+
+<a id="org1125ae7"></a>
+
+# Mastery
+
+Mastery isn't an increase in mental capacity, rather it's the ability to experience moment of intense absorbtion in a task, allowing the master to achieve a higher level of performance. The master no longer needs to consciously think about his performance.
+
+
+<a id="orgc39759e"></a>
+
+# Conclusion
+
+The aim of this paper is to provide a model that aids in the design of training courses and materials. By being aware of the developmental stage that the student is at, the training materials can facilitate the advancement to the next stage. Introducing sophisiticated material at an earlier stage would impede the students advancement.
+
+## Footnotes
+
+<sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> "He can, like a baby, pick it up by imitation and floundering trial-and-error, or he can seek the aid of an instructor or instructional manual. The latter approach is far more efficient, and in the case of dangerous activities, such as aircraft piloting, essential."

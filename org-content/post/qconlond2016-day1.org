@@ -1,11 +1,11 @@
-#+BEGIN_MD
+#+BEGIN_EXPORT MD
 +++
 title = "QConLondon 2016 Day 1 Notes"
 description = "Notes on the sessions I attended at QConLondon2016"
 date = 2016-03-07T21:08:04Z
 tags = ["qconlondon"]
 +++
-#+END_MD
+#+END_EXPORT
 * @willhillbet Love Failure & Embrace The Fallout
    WillHill are java centric enterprise but use range of languages as
    needed by each project Guiding principles of small apps & leaning

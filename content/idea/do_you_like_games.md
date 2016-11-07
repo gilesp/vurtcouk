@@ -5,16 +5,11 @@ date = 2016-02-10T18:31:28Z
 tags = ["games", "toys"]
 +++
 
-A mini, puzzle orientated game hosted on a raspberry pi or similar
-small device.
+A mini, puzzle orientated game hosted on a raspberry pi or similar small device.
 
-It could act as an open wifi access point, maybe running some sort of
-captive portal?
+It could act as an open wifi access point, maybe running some sort of captive portal?
 
-Make it text based, with a green screen terminal interface - accessing
-any website would redirect you to the opening page of the game - green
-screen themed. Hinting at retro nature and hopefully pointing people
-towards possibilities like Telnet/Gopher etc.
+Make it text based, with a green screen terminal interface - accessing any website would redirect you to the opening page of the game - green screen themed. Hinting at retro nature and hopefully pointing people towards possibilities like Telnet/Gopher etc.
 
 Possible Themes:
 
@@ -27,8 +22,7 @@ Possible Themes:
 
 It could have a twitter (or other social network) feed:
 
--   Progress updates (e.g. "gilesp has joined the game", "johnsmith has
-    discovered a clue")
+-   Progress updates (e.g. "gilesp has joined the game", "johnsmith has discovered a clue")
 -   (Alternatively?) the home screen could display a status feed
 
 Part of the game could be a gopher server running on the host
@@ -38,87 +32,15 @@ Part of the game could be a gopher server running on the host
     -   The host/port could be enciphered somehow
     -   (partial) Code for gopher client on a page on captive portal
         -   Also discussion of (modern) gopher clients
--   Gopher server could contain content for story section and/or clues
-    to next section
+-   Gopher server could contain content for story section and/or clues to next section
 
 Puzzles
 
 -   Baudot - telegraph code?
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
-
-
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<tbody>
-<tr>
-<td class="org-left">H</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">E</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">\*</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">L</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">L</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">0</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-<td class="org-left">\*</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">Left</td>
-<td class="org-left">Hand</td>
-<td class="org-left">Right</td>
-<td class="org-left">Hand</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
+| H |      | \*   | \*    | \*   |    |
+| E |      |      |       | \*   |    |
+| L | \*   | \*   | \*    | \*   |    |
+| L | \*   | \*   | \*    | \*   |    |
+| 0 |      |      | \*    | \*   | \* |
+|   | Left | Hand | Right | Hand |    |

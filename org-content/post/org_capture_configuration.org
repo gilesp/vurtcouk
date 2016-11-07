@@ -1,11 +1,11 @@
-#+begin_md
+#+begin_export md
 +++
 title = "Org Protocol Setup"
 description = "How to configure org-protocol for fun and profit"
 tags = ["emacs", "org", "gtd"]
 date = 2016-09-21T12:08:33Z
 +++
-#+end_md
+#+end_export
 
 I've decided to have another go at [[http://gettingthingsdone.com/][Getting Things Done]], but this time
 using [[https://www.gnu.org/software/emacs/][Emacs]], as that's where I spend most of my time these days. As

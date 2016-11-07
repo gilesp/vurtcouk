@@ -1,11 +1,11 @@
-#+BEGIN_MD
+#+BEGIN_EXPORT MD
 +++
 title = "Reflective Cycling Cuffs"
 description = "Slip on retro-reflective wristband for cycling"
 date = 2016-02-08T18:17:42Z
 tags = ["cycling", "diy"]
 +++
-#+END_MD
+#+END_EXPORT
 I am a utility cyclist (I ride an upright dutch bike with a box on the front as part 
 of my daily commute). For this I wear normal clothes as much as possible, but I also
 look for ways to improve my visibility at night with retro-reflective (not Hi-Viz) fabrics.
