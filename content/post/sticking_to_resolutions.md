@@ -1,0 +1,18 @@
++++
+title = "Every Day is New Year's Day when it comes to making resolutions"
+description = "You can start a new habit any day of the year"
+tags = ["productivity", "habits"]
+date = 2017-01-20T14:42:04Z
++++
+
+Approaching the end of January, I'm willing to bet that most New Year's resolutions have already fallen by the way side. There are countless gym memberships going unused and many journals started only to peter out around now. I'd also guess that most people won't think too much about it until the end of the year when they'll resolve to really try this time around&#x2026;
+
+The thing is, you don't need to wait until the end of the year to start a new habit or set yourself a new objective. Every day is the start of a new year if you want it to be. Why pile on the pressure by making a New Year's resolution in haste on the 1st of January? Think through what you want to achieve and start today.
+
+I decided on the 24th of December to start doing press ups in the morning before my shower. Since the birth of my son last year, I'd got out of the habit of exercising regularly so I'm not very strong at all. I could have waited until the new year, but by then my resolve would have probably faded. Couple that with potential embarrassment when people asked how many press ups I could do or how it was going and I'd probably never have even started.
+
+Instead, I have taken a "soft launch" approach to my resolution. The first day I just did as many press up as I could. Which turned out to be 5. Yup, I'm a tall skinny weakling. The next day I managed 5 again. The day after, 6. The day after that, 7, barely.
+
+I've been doing it every day since then, aiming to do at least one more each day, but I'm satisfied if I match the previous day. By doing it every day, I've built up quite a streak and I don't want to break that now. That motivation increases each day, until (hopefully) this becomes a habit and I don't even have to think about it.
+
+I can currently do 16 press ups. It's not much but it's a 300% improvement on where I started ;-)
