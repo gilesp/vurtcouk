@@ -1,0 +1,52 @@
+#+BEGIN_EXPORT md
++++
+title = "Per-project environment profiles"
+description = "How I manage multiple projects environment variables in bash"
+tags = ["bash", "coding"]
+date = 2017-03-07T17:49:10Z
++++
+#+END_EXPORT
+
+I often have multiple clients' projects checked out on my machine at
+once, and need to be able to switch between them fairly regularly.
+These projects usually require various environment variables to be set
+up (for things like build options or deployment targets).
+
+In the past I have just stuck these in my ~.profile~ or ~.bashrc~ and left
+them there whether or not I was currently working on the project.
+Usually this is ok but it does mean that I ended up with old cruft in
+my environment after a project finishes. And, on occasion, two project
+will have conflicting requirements.
+
+While setting up my new laptop, I decided to take a different
+approach, and configure things on a per-project basis, so that the
+environment variables are only setup when I'm working on that project.
+
+To achieve this, in each project folder, I create a file called
+~environment.profile~ that contains the project specific settings. For
+example:
+
+#+BEGIN_SRC sh
+export USERPROFILE=$HOME/projects/available/project_zeus/
+export TARGET=firebase
+#+END_SRC
+
+Taking a leaf out of the apache sites config setup, in my projects
+directory I have an "available" sub directory that contains all of my
+project directories. I then symlink ones I'm currently working on to
+the "current" sub directory. In my ~.bashrc~ file, I then have the
+following code to source any ~environment.profile~ files from the
+projects in the current directory:
+
+#+BEGIN_SRC sh
+# Load project specific environment variables
+# in each of the sub dirs in ~/projects/, look for an environment.profile files
+# if it exists, include it here.
+for project in $HOME/projects/current/*/ ; do
+    if [ -f "$project/environment.profile" ] ; then
+        . "$project/environment.profile"
+    fi
+done
+#+END_SRC
+
+And that's it. Nothing spectacular, but it has made my life slightly easier.
