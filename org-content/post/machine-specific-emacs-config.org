@@ -6,8 +6,9 @@ date = 2016-01-27T11:43:18Z
 +++
 #+END_EXPORT
 
-I'm a regular Emacs user, although I still class myself as a beginner - every day I find some 
-new feature or function that I'd like to make use of.
+I'm a regular Emacs user, although I still class myself as a
+beginner - almost every day I find some new feature or function that
+I'd like to make use of.
 
 I've taken a modular approach to my emacs configuration, whereby my ~init.el~ file adds a 
 subdirectory ~lisp~ to the load path where my actual configuration lives. Within the lisp 
