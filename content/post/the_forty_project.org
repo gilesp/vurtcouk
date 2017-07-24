@@ -1,16 +1,72 @@
 #+TITLE: The Forty Project
-#+DATE: 2017-07-24
+#+DESCRIPTION: Less "stuff", more experiences
+#+DATE: 2017-07-15
 #+TAGS: 40project
-#+DRAFT: true
+#+DRAFT: false
 
-
-* So I recently turned 40
+* I recently turned 40...
 And my partner gave me a rather interesting gift:
 
 #+ATTR_HTML: width="500px"
-[[file:https://scontent-lhr3-1.cdninstagram.com/t51.2885-15/e35/19986047_1367107870071276_6015621328961273856_n.jpg][An array of coloured labels]]
+[[file://photos.vurt.co.uk/uploads/big/e2d9f02ef42e6a253c77823f9346cd81.jpg][An array of coloured labels]]
 
-rather than buying me something (I have enough stuff), she has
+Rather than buying me something (I have enough stuff), she has
 thoughtfully given me a series of forty challenges and experiences to
 do over the course of the following year.
 
+Each card contains a clue to a gift or experience or a challenge for
+me to complete: [[file://photos.vurt.co.uk/uploads/big/e52463efec7518d3fbc351bdb84f5de3.JPG][A selection of challenges]]
+
+I'm going to blog about each activity as I do it, and some of the
+challenges will spawn sub-projects, so I'm going to be pretty busy
+over the next year. That's partly the point, as my teenage daughter is
+moving to Dubai with her mum and step-family, so my partner thought
+this would be something to keep my mind off things in the long gaps
+between visits. Besides, we also have a 1 year old son, so it's going
+to be interesting fitting everything in around him!
+
+Here's the full list of activities (in no particular order):
+
++ Have a spooky experience
++ Visit a gin specialist
++ Follow a geocaching trail
++ £50 to spend at Superdry
++ Ring 40 bells
++ Go nutting*
++ Write a short story about one of the following: Release, Indelible, Encroachment, Conviction, Untouchable.
++ Become cut off from the mainland on a tidal island*
++ Complete a cycle challenge
++ Have a pint in the oldest pub in the UK
++ Master how to make five cocktails
++ Plant five vegetables beginning with B
++ Eat five liquorice wheels in one go
++ See stonehenge at dawn
++ Visit the enchanted forest*
++ See some live music
++ Experience entertainment in an open are cinema
++ Complete one of the UK's most interesting mazes*
++ Eat fish and chips on the beach*
++ Do something for charity, or volunteer
++ Sail, or otter spot on the Norfolk Broads
++ Go glamping*
++ Make a type of bread that you haven't made yet
++ Take photos of 40 pairs of feet (with or without shoes)
++ Eat exotic food*
++ Visit the UK's tropical islands*
++ An animal experience
++ Sleep in a windmill or lighthouse
++ £20 to spend at B13 8DD*
++ Write letters to five people who have most impacted your life
++ Sleep in a vehicle*
++ Learn to play one tune of your guitar
++ Drive a steam train
++ Visit Winifred's Well*
++ Make something creative with your hands
++ 5x Giles to Decide
+
+Some may seem vague or trivial but they each have some significance to
+me, and some(*) are just hints at an activity that has already been
+planned out. There are plenty that will need some thought and planning
+on my part, particularly the ones where I get to decide on something
+(maybe have a surfing lesson, skydive??), so feel free to drop me a
+line with any suggestions you may have ;-)
