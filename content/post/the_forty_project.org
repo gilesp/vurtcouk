@@ -7,7 +7,8 @@
 * So I recently turned 40
 And my partner gave me a rather interesting gift:
 
-[[https://scontent-lhr3-1.cdninstagram.com/t51.2885-15/e35/19986047_1367107870071276_6015621328961273856_n.jpg]]
+#+ATTR_HTML: width="500px"
+[[file:https://scontent-lhr3-1.cdninstagram.com/t51.2885-15/e35/19986047_1367107870071276_6015621328961273856_n.jpg][An array of coloured labels]]
 
 rather than buying me something (I have enough stuff), she has
 thoughtfully given me a series of forty challenges and experiences to
