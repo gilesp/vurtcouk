@@ -10,7 +10,7 @@ builddrafts = false
 canonifyurls = false
 defaultExtension = "html"
 pluralizeListTitles = true
-ignoreFiles = [ "\\.org$" ]
+
 
 [author]
     name = "Giles Paterson"
