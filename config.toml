@@ -10,7 +10,7 @@ builddrafts = false
 canonifyurls = false
 defaultExtension = "html"
 pluralizeListTitles = true
-
+googleAnalytics = "UA-52057933-1"
 
 [author]
     name = "Giles Paterson"
