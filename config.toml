@@ -19,7 +19,7 @@ googleAnalytics = "UA-52057933-1"
 [params]
     AuthorName = "Giles Paterson"
     intro = true
-    headline = "vurt.uk"
+    headline = "vurt.co.uk"
     description = "Ideas for things to do and how to (possibly) do them"
     github = "https://github.com/gilesp"
     twitter = "https://twitter.com/gilesp"
