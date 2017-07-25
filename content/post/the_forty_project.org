@@ -1,13 +1,19 @@
++++
+Images = ["http://photos.vurt.co.uk/uploads/big/e2d9f02ef42e6a253c77823f9346cd81.jpg"]
+Title = "The Forty Project"
+Date = 2017-07-15
+Tags = ["40project"]
++++
 #+TITLE: The Forty Project
 #+DESCRIPTION: Less "stuff", more experiences
 #+DATE: 2017-07-15
 #+TAGS: 40project
 #+DRAFT: false
 
+
 * I recently turned 40...
 And my partner gave me a rather interesting gift:
 
-#+ATTR_HTML: width="500px"
 [[file:http://photos.vurt.co.uk/uploads/big/e2d9f02ef42e6a253c77823f9346cd81.jpg][An array of coloured labels]]
 
 Rather than buying me something (I have enough stuff), she has
