@@ -1,1 +1,11 @@
+# Redirect all insecure requests
+<IfModule mod_rewrite.c>
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R=301,L]
+</IfModule>
+
+# Tell web browsers not to even try HTTP on this domain for the next
+# year.
+#Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
+
 ErrorDocument 404 /404.html
