@@ -14,7 +14,7 @@ googleAnalytics = "UA-52057933-1"
 
 [author]
     name = "Giles Paterson"
-    profile = "https://plus.google.com/u/0/+GilesPaterson"
+    profile = "https://twitter.com/gilesp"
 
 [params]
     AuthorName = "Giles Paterson"
@@ -26,6 +26,12 @@ googleAnalytics = "UA-52057933-1"
     stackoverflow = "https://stackoverflow.com/users/1514202/gilesp"
     gplus = "https://google.com/+GilesPaterson"
     linkedin = "https://uk.linkedin.com/in/gpaterson"
+    email = "website@vurt.uk"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = true
 
 [taxonomies]
     tag = "tags"
