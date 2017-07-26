@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2009-11-04 19:32:03+00:00
-layout: post
-slug: study-with-the-open-university-using-ubuntu
-title: Study with the Open University using Ubuntu
-wordpress_id: 101
----
++++
+author = "giles"
+comments = true
+date = "2009-11-04 19:32:03+00:00"
+slug = "study-with-the-open-university-using-ubuntu"
+title = "Study with the Open University using Ubuntu"
+wordpress_id = 101
+
++++
 
 I've recently enrolled with the [Open University](http://www.open.ac.uk/) for the first time, to study Software Project Management. The first course I'm taking is [M865 Project Management](http://www3.open.ac.uk/study/postgraduate/course/m865.htm) and ultimately I'm studying towards the [Postgraduate Diploma in Management of Software Projects](http://www3.open.ac.uk/study/postgraduate/qualification/E19.htm).
 

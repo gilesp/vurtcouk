@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2009-04-02 20:26:15+00:00
-layout: post
-slug: ilford-hp3-panchromatic-found-film
-title: Ilford HP3 Panchromatic Found Film
-wordpress_id: 79
-categories:
-- Photography
----
++++
+author = "giles"
+categories = ["Photography"]
+comments = true
+date = "2009-04-02 20:26:15+00:00"
+slug = "ilford-hp3-panchromatic-found-film"
+title = "Ilford HP3 Panchromatic Found Film"
+wordpress_id = 79
+
++++
 
 Recently I bought a [Kodak No2 Box Brownie](http://www.brownie-camera.com/54.shtml) on ebay with the intention of hacking it about for a project. Don't worry, it was listed as broken and indeed the shutter was shot - I wouldn't destroy a functioning camera!
 

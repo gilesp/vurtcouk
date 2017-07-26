@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-06-24 18:27:00+00:00
-layout: post
-slug: new_bike
-title: New Bike
-wordpress_id: 41
----
++++
+author = "giles"
+comments = true
+date = "2007-06-24 18:27:00+00:00"
+slug = "new_bike"
+title = "New Bike"
+wordpress_id = 41
+
++++
 
 I really like the idea behind [freecycle](http://www.freecycle.org/), as the old saying goes, one person's trash is another's gold or something like that.
 

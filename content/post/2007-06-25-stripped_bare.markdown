@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-06-25 20:32:00+00:00
-layout: post
-slug: stripped_bare
-title: Stripped bare
-wordpress_id: 42
----
++++
+author = "giles"
+comments = true
+date = "2007-06-25 20:32:00+00:00"
+slug = "stripped_bare"
+title = "Stripped bare"
+wordpress_id = 42
+
++++
 
 Well an evening with some tools resulted in very greasy hands and the following pile of bits:
 

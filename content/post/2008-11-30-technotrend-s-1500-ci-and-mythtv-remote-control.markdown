@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2008-11-30 16:18:43+00:00
-layout: post
-slug: technotrend-s-1500-ci-and-mythtv-remote-control
-title: Technotrend S-1500 CI and Mythtv Remote Control
-wordpress_id: 71
----
++++
+author = "giles"
+comments = true
+date = "2008-11-30 16:18:43+00:00"
+slug = "technotrend-s-1500-ci-and-mythtv-remote-control"
+title = "Technotrend S-1500 CI and Mythtv Remote Control"
+wordpress_id = 71
+
++++
 
 Back in January, I built myself a PVR using [MythTV](http://www.mythtv.org/) (I went for the [Mythbuntu](http://www.mythbuntu.org/) distribution to simplify things) and have been very happy with it on the most part. However a recent distribution upgrade from Ubuntu Hardy to Ubuntu Intrepid left me with a non-working remote control which was not ideal, to say the least.
 

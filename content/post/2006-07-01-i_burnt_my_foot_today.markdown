@@ -1,19 +1,14 @@
----
-author: giles
-comments: true
-date: 2006-07-01 21:37:00+00:00
-layout: post
-slug: i_burnt_my_foot_today
-title: I burnt my foot today
-wordpress_id: 33
----
++++
+author = "giles"
+comments = true
+date = "2006-07-01 21:37:00+00:00"
+slug = "i_burnt_my_foot_today"
+title = "I burnt my foot today"
+wordpress_id = 33
 
++++
 
-
-
-
-
-	[![The full extent](http://static.flickr.com/52/179263596_c496b00a32_t.jpg)](http://www.flickr.com/photos/gpaterson/179263596/)  
+[![The full extent](http://static.flickr.com/52/179263596_c496b00a32_t.jpg)](http://www.flickr.com/photos/gpaterson/179263596/)  
 
 	
 		[The full extent](http://www.flickr.com/photos/gpaterson/179263596/)

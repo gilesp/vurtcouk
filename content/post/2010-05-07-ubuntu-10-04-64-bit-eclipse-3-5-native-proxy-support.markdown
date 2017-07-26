@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2010-05-07 15:07:31+00:00
-layout: post
-slug: ubuntu-10-04-64-bit-eclipse-3-5-native-proxy-support
-title: Ubuntu 10.04 64 bit Eclipse 3.5 Native Proxy support
-wordpress_id: 109
----
++++
+author = "giles"
+comments = true
+date = "2010-05-07 15:07:31+00:00"
+slug = "ubuntu-10-04-64-bit-eclipse-3-5-native-proxy-support"
+title = "Ubuntu 10.04 64 bit Eclipse 3.5 Native Proxy support"
+wordpress_id = 109
+
++++
 
 Eclipse is a great IDE and I've been using it day to day for a number of years now. However when I recently got a new laptop at work and installed Ubuntu 10.04 on to it, I ran into a problem with the Proxy configuration.
 

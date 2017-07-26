@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2008-10-31 15:05:08+00:00
-layout: post
-slug: porting-django-to-10-from-an-earlier-version
-title: Porting Django to 1.0 from an earlier version
-wordpress_id: 67
----
++++
+author = "giles"
+comments = true
+date = "2008-10-31 15:05:08+00:00"
+slug = "porting-django-to-10-from-an-earlier-version"
+title = "Porting Django to 1.0 from an earlier version"
+wordpress_id = 67
+
++++
 
 I use [django](http://www.djangoproject.com/) for a [personal web development project](http://www.c4mbodia.com/) and whilst it is a lovely framework, it's been undergoing very active development to get it to a 1.0 release. The previous release was 0.96 but that was sometime before I started my project, so I've been working to a version checked out of subversion around 4 months ago which contained some new features but not everything that eventually made it into 1.0
 

@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2008-03-13 15:27:43+00:00
-layout: post
-slug: database-configuration
-title: Database Configuration
-wordpress_id: 54
-categories:
-- Work
----
++++
+author = "giles"
+categories = ["Work"]
+comments = true
+date = "2008-03-13 15:27:43+00:00"
+slug = "database-configuration"
+title = "Database Configuration"
+wordpress_id = 54
+
++++
 
 At work, we're building a new website for the organisation based around the [InfoGlue CMS](http://www.infoglue.org/). It's an open source, java based content management system that provides nice separation between content and site structure and is extensible enough for us to tailor the admin side of things to our users needs. All in all, decent stuff.
 

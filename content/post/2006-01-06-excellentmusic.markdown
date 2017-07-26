@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2006-01-06 10:38:00+00:00
-layout: post
-slug: excellentmusic
-title: Excellent Music
-wordpress_id: 23
----
++++
+author = "giles"
+comments = true
+date = "2006-01-06 10:38:00+00:00"
+slug = "excellentmusic"
+title = "Excellent Music"
+wordpress_id = 23
+
++++
 
 Now I don't normally use this site as a blog (or indeed for anything in particular), but I've just stumbled across some fantastic music, and since my [usual place](http://www.4rthur.com/) for reporting this sort of thing is down at the moment, I thought I'd post it here.  
   

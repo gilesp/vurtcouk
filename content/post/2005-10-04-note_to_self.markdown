@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2005-10-04 23:04:00+00:00
-layout: post
-slug: note_to_self
-title: Note to Self
-wordpress_id: 18
-categories:
-- Thoughts
----
++++
+author = "giles"
+categories = ["Thoughts"]
+comments = true
+date = "2005-10-04 23:04:00+00:00"
+slug = "note_to_self"
+title = "Note to Self"
+wordpress_id = 18
+
++++
 
 Streaming video from the computer to the netgem using VLC worked with mpeg2 video at 1024kbs with audio at 192kbs.
 

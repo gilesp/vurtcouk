@@ -1,18 +1,14 @@
----
-author: giles
-comments: true
-date: 2008-10-06 21:41:24+00:00
-layout: post
-slug: further-adventures-in-scanography
-title: Further adventures in scanography
-wordpress_id: 61
-categories:
-- Hacks
-- Make
-- Photography
-tags:
-- photography scanner camera hack diy scanography
----
++++
+author = "giles"
+categories = ["Hacks", "Make", "Photography"]
+comments = true
+date = "2008-10-06 21:41:24+00:00"
+slug = "further-adventures-in-scanography"
+tags = ["photography scanner camera hack diy scanography"]
+title = "Further adventures in scanography"
+wordpress_id = 61
+
++++
 
 Well, it turns out that the banding I was getting on the images wasn't due to reflections from the metal guide rail. I totally dismantled the scanner, bought some matt black spray paint and gave the inside of the scanner a good going over. This involved removing the sprung cable that drives the scanning head, masking off the electronics (which are glued in place it seems), going outside when the weather was good and spraying it all to hell :-)
 

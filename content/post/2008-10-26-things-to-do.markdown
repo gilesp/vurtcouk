@@ -1,23 +1,14 @@
----
-author: giles
-comments: true
-date: 2008-10-26 16:05:01+00:00
-layout: post
-slug: things-to-do
-title: Things to do
-wordpress_id: 64
-categories:
-- Thoughts
-tags:
-- coding
-- life
-- personal development
-- Photography
-- projects
-- time management
-- todo
-- writing
----
++++
+author = "giles"
+categories = ["Thoughts"]
+comments = true
+date = "2008-10-26 16:05:01+00:00"
+slug = "things-to-do"
+tags = ["coding", "life", "personal development", "Photography", "projects", "time management", "todo", "writing"]
+title = "Things to do"
+wordpress_id = 64
+
++++
 
 Well, work isn't exactly lighting my fire at the moment, but with the economy and job market as it is at the moment, I'll take stability over interesting. So it's time to do a bit of personal development to stop me going insane.
 

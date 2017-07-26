@@ -1,17 +1,13 @@
----
-author: giles
-comments: true
-date: 2008-08-19 20:39:21+00:00
-layout: post
-slug: scanner-camera
-title: Scanner Camera
-wordpress_id: 56
-categories:
-- Black And White
-- Hacks
-- Make
-- Photography
----
++++
+author = "giles"
+categories = ["Black And White", "Hacks", "Make", "Photography"]
+comments = true
+date = "2008-08-19 20:39:21+00:00"
+slug = "scanner-camera"
+title = "Scanner Camera"
+wordpress_id = 56
+
++++
 
 Something I've fancied doing for a while now, is making a camera out of a flatbed scanner. Why? Because it seemed like a good idea at the time. I like cameras; I collect them. I love photography and I love tinkering with things. It all seemed like a good idea at the time.
 

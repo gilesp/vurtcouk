@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2012-01-15 18:00:41+00:00
-layout: post
-slug: january-frost
-title: January Frost
-wordpress_id: 145
-categories:
-- Thoughts
----
++++
+author = "giles"
+categories = ["Thoughts"]
+comments = true
+date = "2012-01-15 18:00:41+00:00"
+slug = "january-frost"
+title = "January Frost"
+wordpress_id = 145
+
++++
 
 [![img_0001_04 by gpaterson](http://farm8.staticflickr.com/7001/6702198165_cbe590a398.jpg)](http://www.flickr.com/photos/gpaterson/6702198165/)
 [img_0001_04](http://www.flickr.com/photos/gpaterson/6702198165/), a photo by [gpaterson](http://www.flickr.com/photos/gpaterson/) on Flickr.

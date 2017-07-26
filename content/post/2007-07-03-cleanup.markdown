@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-07-03 15:58:00+00:00
-layout: post
-slug: cleanup
-title: Cleanup
-wordpress_id: 44
----
++++
+author = "giles"
+comments = true
+date = "2007-07-03 15:58:00+00:00"
+slug = "cleanup"
+title = "Cleanup"
+wordpress_id = 44
+
++++
 
 Well then, cleaning the bike was fairly straightforward, if a bit labour intensive. Like any bike cleanup, it consisted mainly of degreasing everything, giving the frame a wash and then re-lubing everything properly when reassmbling, only more so, since this bike had at least 20 years' worth of gungy oily crap to remove :-)
 

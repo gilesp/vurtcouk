@@ -1,14 +1,8 @@
----
-author: giles
-comments: true
-date: 2005-05-13 17:04:00+00:00
-layout: post
-slug: photography
-title: Photography
-wordpress_id: 8
-categories:
-- Photography
----
++++
+tags = ["photography"]
+date = "2005-05-13 17:04:00+00:00"
+title = "Photography"
++++
 
 My interest in photography has been rekindled recently, and I am currently taking evening classes in black & white photography and darkroom work.
 

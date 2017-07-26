@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2006-08-02 13:38:00+00:00
-layout: post
-slug: t_shirts
-title: T-Shirts.
-wordpress_id: 35
----
++++
+author = "giles"
+comments = true
+date = "2006-08-02 13:38:00+00:00"
+slug = "t_shirts"
+title = "T-Shirts."
+wordpress_id = 35
+
++++
 
 There's a new online t-shirt company started up called [Dshirt.co.uk](http://www.dshirt.co.uk/) They seem to be following a similar model to [threadless.com](http://www.threadless.com/) but being UK based, tshirts should arrive a bit sooner :-)
 

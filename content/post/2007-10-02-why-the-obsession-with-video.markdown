@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-10-02 14:59:10+00:00
-layout: post
-slug: why-the-obsession-with-video
-title: Why the obsession with video?
-wordpress_id: 49
----
++++
+author = "giles"
+comments = true
+date = "2007-10-02 14:59:10+00:00"
+slug = "why-the-obsession-with-video"
+title = "Why the obsession with video?"
+wordpress_id = 49
+
++++
 
 Why are people obsessed with uploading flash videos in place of short, well written instructions on how to perform a given task? The web is full of people posting 5 minute long, low-res flash videos of how to install _software X_ under linux or some such when a simple page with 5 bullet points and a couple of screen shots would do the job so much better.
 

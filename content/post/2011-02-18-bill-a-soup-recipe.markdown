@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2011-02-18 13:34:29+00:00
-layout: post
-slug: bill-a-soup-recipe
-title: bill-a-soup recipe
-wordpress_id: 138
-categories:
-- Thoughts
----
++++
+author = "giles"
+categories = ["Thoughts"]
+comments = true
+date = "2011-02-18 13:34:29+00:00"
+slug = "bill-a-soup-recipe"
+title = "bill-a-soup recipe"
+wordpress_id = 138
+
++++
 
 Here's my recipe for delicious bill-a-soup:
 

@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2005-07-05 14:00:00+00:00
-layout: post
-slug: 120pinholecamera
-title: 120 Pinhole Camera
-wordpress_id: 17
-categories:
-- Photography
----
++++
+author = "giles"
+categories = ["Photography"]
+comments = true
+date = "2005-07-05 14:00:00+00:00"
+slug = "120pinholecamera"
+title = "120 Pinhole Camera"
+wordpress_id = 17
+
++++
 
 Well, I'm camera obsessed. There's no denying it. I was bored last weekend,
 so what did I do? I built myself a pinhole camera, that's what. And not just

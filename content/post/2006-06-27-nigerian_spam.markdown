@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2006-06-27 10:29:00+00:00
-layout: post
-slug: nigerian_spam
-title: Nigerian Spam
-wordpress_id: 26
----
++++
+author = "giles"
+comments = true
+date = "2006-06-27 10:29:00+00:00"
+slug = "nigerian_spam"
+title = "Nigerian Spam"
+wordpress_id = 26
+
++++
 
 Well, we all know those nigerian spam mails offering us a cut of the action if we help them get some money out of the country will always be around. At least now though, they've become brief and to the point:
 

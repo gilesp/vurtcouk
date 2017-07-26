@@ -1,12 +1,11 @@
----
-author: giles
-comments: true
-date: 2005-05-13 16:55:00+00:00
-layout: post
-slug: workinprogress
-title: Work In Progress
-wordpress_id: 7
----
++++
+author = "giles"
+comments = true
+date = "2005-05-13 16:55:00+00:00"
+slug = "workinprogress"
+title = "Work In Progress"
+wordpress_id = 7
++++
 
 Well, as you may have noticed, vurt.co.uk has changed somewhat. I'm in the middle of revamping the site so things will be in a state of flux for a while.
 

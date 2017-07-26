@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2007-02-21 21:02:00+00:00
-layout: post
-slug: teacreference300
-title: Teac Reference 300
-wordpress_id: 39
-categories:
-- Wishlist
----
++++
+author = "giles"
+categories = ["Wishlist"]
+comments = true
+date = "2007-02-21 21:02:00+00:00"
+slug = "teacreference300"
+title = "Teac Reference 300"
+wordpress_id = 39
+
++++
 
 I desperately need a new HiFi - my only source of music playing are my computers which are not exactly top quality. I've been playing more and more CDs lately as opposed to my massive MP3 collection, so I'd like something to do them justice.
 

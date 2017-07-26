@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2013-05-31 09:15:40+00:00
-layout: post
-slug: rewriting-history-with-git
-title: Rewriting history with git
-wordpress_id: 1033
-categories:
-- Hacks
----
++++
+author = "giles"
+categories = ["Hacks"]
+comments = true
+date = "2013-05-31 09:15:40+00:00"
+slug = "rewriting-history-with-git"
+title = "Rewriting history with git"
+wordpress_id = 1033
+
++++
 
 Sometimes when working with git branches, you'll find you need to rewrite history to correct a mistake. For example you squashed your commits into one and pushed them but then realised you'd missed something from the squash and need to do it again. Now, while you can perform the git rebase -i again and make the changes locally, you won't be able to push this back to origin as your branches have diverged.
 

@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2006-11-09 20:14:00+00:00
-layout: post
-slug: pentaxdslrremote
-title: The £2 Pentax DSLR Remote
-wordpress_id: 37
-categories:
-- Articles
----
++++
+author = "giles"
+categories = ["Articles"]
+comments = true
+date = "2006-11-09 20:14:00+00:00"
+slug = "pentaxdslrremote"
+title = "The £2 Pentax DSLR Remote"
+wordpress_id = 37
+
++++
 
 I recently bought myself a nice Pentax K100D camera to complement my traditional film cameras.
 

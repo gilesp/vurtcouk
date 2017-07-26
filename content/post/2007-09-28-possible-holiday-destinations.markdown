@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-09-28 09:40:19+00:00
-layout: post
-slug: possible-holiday-destinations
-title: Possible holiday destinations
-wordpress_id: 48
----
++++
+author = "giles"
+comments = true
+date = "2007-09-28 09:40:19+00:00"
+slug = "possible-holiday-destinations"
+title = "Possible holiday destinations"
+wordpress_id = 48
+
++++
 
 Well I really fancy taking a holiday soon - I've not had a proper one in ages. I've been thinking about a city break in eastern europe maybe.
 

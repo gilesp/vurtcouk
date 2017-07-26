@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-09-20 13:28:13+00:00
-layout: post
-slug: site-update
-title: Site Update
-wordpress_id: 47
----
++++
+author = "giles"
+comments = true
+date = "2007-09-20 13:28:13+00:00"
+slug = "site-update"
+title = "Site Update"
+wordpress_id = 47
+
++++
 
 Well as you have probably guessed, I've made some changes to the site as a prelude to hopefully becoming a more regular blogger.
 

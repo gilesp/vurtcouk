@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2008-07-29 10:29:35+00:00
-layout: post
-slug: good-service-plume-tyre-service
-title: Good Service - Plume Tyre Service
-wordpress_id: 55
----
++++
+author = "giles"
+comments = true
+date = "2008-07-29 10:29:35+00:00"
+slug = "good-service-plume-tyre-service"
+title = "Good Service - Plume Tyre Service"
+wordpress_id = 55
+
++++
 
 Now, the internet is full of posts, forums and people complaining about bad customer service. You can't swing the metaphorical cat without hitting half a dozen livejournal communities dedicated to it... And this can be very useful - a quick google of a company's name before you engage their services can save you headaches later.
 

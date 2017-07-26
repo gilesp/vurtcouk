@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2010-05-04 14:51:45+00:00
-layout: post
-slug: ubuntu-lucid-10-04-active-directory-woes
-title: Ubuntu Lucid 10.04 Active Directory Woes
-wordpress_id: 108
----
++++
+author = "giles"
+comments = true
+date = "2010-05-04 14:51:45+00:00"
+slug = "ubuntu-lucid-10-04-active-directory-woes"
+title = "Ubuntu Lucid 10.04 Active Directory Woes"
+wordpress_id = 108
+
++++
 
 I was looking forward to the launch of Lucid Lynx as [one of the main features being touted](http://www.ubuntu.com/testing/lucid/beta2#Major%20new%20version%20of%20likewise-open) was improved support for joining an Active Directory domain, in the form of Likewise-open. Now this isn't something that most users will care about, but in a corporate environment, allowing users to login to Ubuntu using the same credentials as they use on their windows machines is pretty important. Previously I'd set things up manually by configuring Samba and Winbind, but that was a pain in the backside, so Likewise-open was an appealing option.
 

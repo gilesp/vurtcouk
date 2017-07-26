@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2006-06-28 15:33:00+00:00
-layout: post
-slug: incidents_of_note
-title: Incidents Of Note
-wordpress_id: 27
----
++++
+author = "giles"
+comments = true
+date = "2006-06-28 15:33:00+00:00"
+slug = "incidents_of_note"
+title = "Incidents Of Note"
+wordpress_id = 27
+
++++
 
 I currently work for the [West Midlands Fire Service](http://www.wmfs.net/) as a Principal Systems Developer in their ICT department. As part of my job, I have access to data coming in from the firemen as they respond to incidents.
 

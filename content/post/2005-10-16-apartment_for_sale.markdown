@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2005-10-16 09:50:00+00:00
-layout: post
-slug: apartment_for_sale
-title: Apartment For Sale
-wordpress_id: 19
----
++++
+author = "giles"
+comments = true
+date = "2005-10-16 09:50:00+00:00"
+slug = "apartment_for_sale"
+title = "Apartment For Sale"
+wordpress_id = 19
+
++++
 
 Well, my 1930's mansion block apartment is now up for sale.
 

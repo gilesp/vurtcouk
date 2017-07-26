@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2007-06-29 02:58:00+00:00
-layout: post
-slug: bike_sleuthing
-title: Bike Sleuthing
-wordpress_id: 43
----
++++
+author = "giles"
+comments = true
+date = "2007-06-29 02:58:00+00:00"
+slug = "bike_sleuthing"
+title = "Bike Sleuthing"
+wordpress_id = 43
+
++++
 
 Well, some digging around on the internets, has turned up a number of possibilities for my bike. The research hasn't been as easy as I would have hoped because most of the vintage raleigh resources cater for the American models, as opposed to the British ones, which seeme dto come in a greater variety and with slightly different spec to their American counterparts.
 

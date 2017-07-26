@@ -1,14 +1,8 @@
----
-author: giles
-comments: true
-date: 2005-05-13 17:07:00+00:00
-layout: post
-slug: cameras
-title: Camera Collection
-wordpress_id: 9
-categories:
-- Photography
----
++++
+tags = ["photography"]
+date = "2005-05-13 17:07:00+00:00"
+title = "Camera Collection"
++++
 
 I'll expand on this entry when I get more time, but here is a quick list of the cameras I own (y'know, i case you want to rob me or something):
 

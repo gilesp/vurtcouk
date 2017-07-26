@@ -1,12 +1,12 @@
----
-author: giles
-comments: true
-date: 2005-12-29 00:08:00+00:00
-layout: post
-slug: new_domain
-title: New Domain
-wordpress_id: 20
----
++++
+author = "giles"
+comments = true
+date = "2005-12-29 00:08:00+00:00"
+slug = "new_domain"
+title = "New Domain"
+wordpress_id = 20
+
++++
 
 Well I've finally got around to registering my full name as a domain.  
 

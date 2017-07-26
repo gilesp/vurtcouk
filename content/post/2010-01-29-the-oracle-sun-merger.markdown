@@ -1,19 +1,13 @@
----
-author: giles
-comments: true
-date: 2010-01-29 10:38:30+00:00
-layout: post
-slug: the-oracle-sun-merger
-title: The Oracle/Sun Merger
-wordpress_id: 103
-tags:
-- development
-- Java
-- merger
-- opensource
-- Oracle
-- Sun
----
++++
+author = "giles"
+comments = true
+date = "2010-01-29 10:38:30+00:00"
+slug = "the-oracle-sun-merger"
+tags = ["development", "Java", "merger", "opensource", "Oracle", "Sun"]
+title = "The Oracle/Sun Merger"
+wordpress_id = 103
+
++++
 
 Well, now that [the EU has approved the Sun/Oracle merger](http://www.dailyfinance.com/story/european-union-approves-oracle-sun-merger/19328181/), the [details of which Sun technologies will survive](http://www.theregister.co.uk/2010/01/29/oracle_sun_java_open_source/) have started to emerge.
 

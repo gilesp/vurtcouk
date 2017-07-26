@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2009-03-23 12:30:13+00:00
-layout: post
-slug: scrambled-eggs-recruitment
-title: Scrambled Eggs and the Art of Recruitment
-wordpress_id: 76
-categories:
-- Work
----
++++
+author = "giles"
+categories = ["Work"]
+comments = true
+date = "2009-03-23 12:30:13+00:00"
+slug = "scrambled-eggs-recruitment"
+title = "Scrambled Eggs and the Art of Recruitment"
+wordpress_id = 76
+
++++
 
 Recently I've done a round of recruitment for a 12 month temporary Java developer role for my employers and so I've been thinking a lot on how best to determine the skills and ability of a candidate. Incidentally, if anyone was in any doubt as to the harsh ecnomic climate we're in, we received 77 applicants for this position, normally we get around 12...
 

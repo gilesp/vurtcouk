@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2013-01-18 15:25:40+00:00
-layout: post
-slug: messing-about-with-mri-data
-title: Messing about with MRI Data
-wordpress_id: 1003
-categories:
-- Thoughts
----
++++
+author = "giles"
+categories = ["Thoughts"]
+comments = true
+date = "2013-01-18 15:25:40+00:00"
+slug = "messing-about-with-mri-data"
+title = "Messing about with MRI Data"
+wordpress_id = 1003
+
++++
 
 Over the past couple of years, I've had 2 MRI scans of my left knee as part of ongoing treatment/diagnosis for chronic pain. When discussing my treatment with the consultant, I was intrigued by the images produced by the scanner - detailed images of the inside of my knee from several angles. And thanks to the Data Protection Act, the hospital has to provide me with the data from thescans if I ask for it. So, one quick query at the MRI department, I handed over £10 (The nominal fee to prevent frivolous requests) and walked away with a CD containing the [DICOM](http://en.wikipedia.org/wiki/DICOM) image data from both my scans.
 

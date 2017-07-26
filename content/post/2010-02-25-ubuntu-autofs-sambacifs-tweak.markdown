@@ -1,15 +1,13 @@
----
-author: giles
-comments: true
-date: 2010-02-25 14:18:51+00:00
-layout: post
-slug: ubuntu-autofs-sambacifs-tweak
-title: Ubuntu AutoFS Samba/CIFS tweak
-wordpress_id: 107
-categories:
-- Hacks
-- Work
----
++++
+author = "giles"
+categories = ["Hacks", "Work"]
+comments = true
+date = "2010-02-25 14:18:51+00:00"
+slug = "ubuntu-autofs-sambacifs-tweak"
+title = "Ubuntu AutoFS Samba/CIFS tweak"
+wordpress_id = 107
+
++++
 
 For a while now I've been using [autofs](http://www.autofs.org/) on my work laptop to automatically mount windows shares when I access them. I achieved this by following [this guide on HowtoForge](http://www.howtoforge.com/accessing_windows_or_samba_shares_using_autofs). Everything runs fine and it means I can do a simple  `ls /cifs/machinename` to access all the shares on that particular machine. Provided I'd remembered to create a credentials file for that machine name...
 

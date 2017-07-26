@@ -1,14 +1,13 @@
----
-author: giles
-comments: true
-date: 2007-08-18 21:44:52+00:00
-layout: post
-slug: nokia-770
-title: Nokia 770
-wordpress_id: 46
-categories:
-- Thoughts
----
++++
+author = "giles"
+categories = ["Thoughts"]
+comments = true
+date = "2007-08-18 21:44:52+00:00"
+slug = "nokia-770"
+title = "Nokia 770"
+wordpress_id = 46
+
++++
 
 I'm typing this post on my new Nokia 770, using a foldup bluetooth keyboard and the python based Maemo Wordpress client.  I have to say, it's a very nice portable computing platform.
 
