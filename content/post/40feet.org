@@ -1,0 +1,28 @@
++++
+Images = [""]
+Title = "Forty Feet"
+Date = 2017-07-22
+Tags = ["40project", "40feet"]
+Draft = true
++++
+
+One of the challenges set for me as part of my [[/tags/40project][40 Project]] was to take
+pictures of 40 pairs of feet.
+
+INSERT PICTURE OF CARD
+
+Now I could have gone out and found freiends, family or colleagues to
+take part in this project but it seemed like a fairly arbitrary reason
+andI wasn't sure if the resulting collection would have a cohesive
+theme. 
+
+I instead decided that I would make it a documentary project,
+recording the people who have helped me achieve the other challenges
+and experiences I'll be completing. I'll aim to include something
+relevant to the experience in the photograph along with the feet of
+the people who've helped me along the way.
+
+I'll be including some of the pictures on my
+[[https://www.instagram.com/patersongiles][instagram account]] as I go, but the full images will be available on
+this site, as part of the posts I make about the challenges, and on my
+[[https://photos.vurt.co.uk/#15007543688204][photo site]]
