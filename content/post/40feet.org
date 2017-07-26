@@ -1,20 +1,19 @@
 +++
-Images = [""]
 Title = "Forty Feet"
 Date = 2017-07-22
 Tags = ["40project", "40feet"]
-Draft = true
+Images = ["https://photos.vurt.co.uk/uploads/big/6049e91a6f6e7df8254a717074d36761.JPG"]
 +++
 
 One of the challenges set for me as part of my [[/tags/40project][40 Project]] was to take
 pictures of 40 pairs of feet.
 
-INSERT PICTURE OF CARD
+[[file:https://photos.vurt.co.uk/uploads/big/6049e91a6f6e7df8254a717074d36761.JPG][Take Photos of 40 pairs of feet (with or without shoes)]]
 
-Now I could have gone out and found freiends, family or colleagues to
-take part in this project but it seemed like a fairly arbitrary reason
-andI wasn't sure if the resulting collection would have a cohesive
-theme. 
+Now I could probably have gone out and found friends, family or
+colleagues to take part in this project but it seemed like a fairly
+arbitrary reason and I wasn't sure if the resulting collection would
+have a cohesive theme.
 
 I instead decided that I would make it a documentary project,
 recording the people who have helped me achieve the other challenges
