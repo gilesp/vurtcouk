@@ -2,13 +2,13 @@
 Title = "Forty Feet"
 Date = 2017-07-22
 Tags = ["40project", "40feet"]
-Images = ["https://photos.vurt.co.uk/uploads/big/6049e91a6f6e7df8254a717074d36761.JPG"]
+Images = ["https://photos.vurt.co.uk/uploads/medium/6049e91a6f6e7df8254a717074d36761.JPG"]
 +++
 
 One of the challenges set for me as part of my [[/tags/40project][40 Project]] was to take
 pictures of 40 pairs of feet.
 
-[[file:https://photos.vurt.co.uk/uploads/big/6049e91a6f6e7df8254a717074d36761.JPG][Take Photos of 40 pairs of feet (with or without shoes)]]
+[[file:https://photos.vurt.co.uk/uploads/medium/6049e91a6f6e7df8254a717074d36761.JPG][Take Photos of 40 pairs of feet (with or without shoes)]]
 
 Now I could probably have gone out and found friends, family or
 colleagues to take part in this project but it seemed like a fairly
